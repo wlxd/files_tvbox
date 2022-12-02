@@ -11,15 +11,6 @@
             "filterable":1
         },
         {
-            "key":"影视推荐",
-            "name":"影视推荐",
-            "type":4,
-            "api":"http://t4.ganggang.live:3812/vod",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1
-        },
-        {
             "key":"低端影视",
             "name":"低端影视",
             "type":3,
@@ -436,7 +427,7 @@
             "request":{
                 "method":"GET",
                 "url":{
-                    "raw":"http://douban-env.eba-y3mim78f.ap-northeast-1.elasticbeanstalk.com/search?q={name}&limit=1"
+                    "raw":"https://douban.cyao.repl.co/search?q={name}&limit=1"
                 }
             },
             "response":{
