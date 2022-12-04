@@ -93,15 +93,6 @@
             "filterable":1
         },
         {
-            "key":"南柯电影",
-            "name":"南柯电影",
-            "api":"csp_Nkdy",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
             "key":"农民影视",
             "name":"农民影视",
             "type":3,
