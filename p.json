@@ -11,16 +11,6 @@
             "filterable":1
         },
         {
-            "key":"影视推荐",
-            "name":"影视推荐",
-            "type":3,
-            "api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"
-        },
-        {
             "key":"低端影视",
             "name":"低端影视",
             "type":3,
