@@ -11,6 +11,16 @@
             "filterable":1
         },
         {
+            "key":"影视推荐",
+            "name":"影视推荐",
+            "type":3,
+            "api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"
+        },
+        {
             "key":"低端影视",
             "name":"低端影视",
             "type":3,
@@ -333,17 +343,7 @@
         {
             "name":"解析聚合",
             "type":3,
-            "url":"Demo"
-        },
-        {
-            "name":"kuanjv",
-            "type":1,
-            "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
-        },
-        {
-            "name":"kxjx",
-            "type":1,
-            "url":"http://pandown.pro/app/kxjx.php?url="
+            "url":"Web"
         },
         {
             "name":"parwix",
@@ -351,19 +351,14 @@
             "url":"https://jx.bozrc.com:4433/player/?url="
         },
         {
-            "name":"xmflv",
-            "type":0,
-            "url":"https://dm.xmflv.com:4433/?url="
-        },
-        {
-            "name":"nxflv",
-            "type":0,
-            "url":"https://www.nxflv.com/?url="
-        },
-        {
             "name":"m2090",
             "type":0,
             "url":"https://m2090.com/?url="
+        },
+        {
+            "name":"xmflv",
+            "type":0,
+            "url":"https://dm.xmflv.com:4433/?url="
         },
         {
             "name":"8old",
