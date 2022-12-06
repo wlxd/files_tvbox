@@ -47,16 +47,6 @@
             "filterable":1
         },
         {
-            "key":"图图影视",
-            "name":"图图影视",
-            "type":3,
-            "api":"csp_AppTT",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://43.154.35.148:9797/api/tutuapp.php"
-        },
-        {
             "key":"利奥影视",
             "name":"利奥影视",
             "type":3,
@@ -64,15 +54,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key":"乐猪影视",
-            "name":"乐猪影视",
-            "api":"csp_Lezhu",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
         },
         {
             "key":"饭团影视",
