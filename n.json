@@ -340,7 +340,7 @@
     ],
     "parses":[
         {
-            "name":"解析聚合",
+            "name":"MixWeb",
             "type":3,
             "url":"Web"
         },
@@ -355,9 +355,39 @@
             "url":"https://m2090.com/?url="
         },
         {
-            "name":"xmflv",
+            "name":"ckmov",
+            "type":0,
+            "url":"https://www.ckmov.vip/api.php?url="
+        },
+        {
+            "name":"m3u8",
+            "type":0,
+            "url":"https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name":"nxflv",
+            "type":0,
+            "url":"https://www.nxflv.com/?url="
+        },
+        {
+            "name":"mtosz",
+            "type":0,
+            "url":"https://www.mtosz.com/m3u8.php?url="
+        },
+        {
+            "name":"xmflv1",
+            "type":0,
+            "url":"https://jx.xmflv.com/?url="
+        },
+        {
+            "name":"xmflv2",
             "type":0,
             "url":"https://dm.xmflv.com:4433/?url="
+        },
+        {
+            "name":"jiexi",
+            "type":0,
+            "url":"https://api.jiexi.la/?url="
         },
         {
             "name":"8old",
