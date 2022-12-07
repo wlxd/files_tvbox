@@ -11,6 +11,15 @@
             "filterable":1
         },
         {
+            "key":"影视推荐",
+            "name":"影视推荐",
+            "type":4,
+            "api":"http://t4.ganggang.live:3812/vod",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1
+        },
+        {
             "key":"低端影视",
             "name":"低端影视",
             "type":3,
@@ -323,7 +332,7 @@
                 {
                     "name":"redirect",
                     "urls":[
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2YuY3lhby50ay9tYW9saXZlLnR4dA=="
+                        "proxy://do=live&type=txt&ext=aHR0cDovL2YuY3lhby50ay9saXZlLnR4dA=="
                     ]
                 }
             ]
