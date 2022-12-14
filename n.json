@@ -1,5 +1,5 @@
 {
-    "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;3D69BF9B63BBA784114AC85BA4E3836F",
+    "spider":"https://f.cyao.tk/jar/Yoursmile.jar;md5;A75FDF02DFCC8025542C2CBBA8E7EDDB",
     "sites":[
         {
             "key":"360影视",
@@ -14,7 +14,7 @@
             "key":"影视推荐",
             "name":"影视推荐",
             "type":4,
-            "api":"http://t4.ganggang.live:3812/vod",
+            "api":"https://t4.饭太硬.ml/vod",
             "searchable":0,
             "quickSearch":0,
             "filterable":1
