@@ -212,16 +212,6 @@
             "ext":"https://f.cyao.tk/ext/zxzj.json"
         },
         {
-            "key":"完美看看",
-            "name":"完美看看(XP)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://f.cyao.tk/ext/wmkankan.json"
-        },
-        {
             "key":"动漫巴士",
             "name":"动漫巴士(XP)",
             "type":3,
