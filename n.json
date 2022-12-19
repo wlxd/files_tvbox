@@ -330,16 +330,6 @@
             "ext":"https://f.cyao.tk/ext/Bili_gq.json"
         },
         {
-            "key":"Gitcafe",
-            "name":"小纸条(云盘)",
-            "type":3,
-            "api":"csp_Gitcafe",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://ali.饭太硬.ml/tok"
-        },
-        {
             "key":"Zhaozy",
             "name":"找资源(云盘)",
             "type":3,
