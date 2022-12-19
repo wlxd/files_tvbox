@@ -10,6 +10,8 @@
 
 <http://byyds.top/w.txt>
 
+<http://饭太硬.ga/x/o.json>
+
 <https://神器每日推送.tk/pz.json>
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
