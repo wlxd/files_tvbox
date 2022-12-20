@@ -93,6 +93,24 @@
             "filterable":1
         },
         {
+            "key":"可乐影视",
+            "name":"可乐影视",
+            "type":3,
+            "api":"csp_Cokemv",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"视觉影院",
+            "name":"视觉影院",
+            "type":3,
+            "api":"csp_Xinsj",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"饭团影视",
             "name":"饭团影视",
             "type":3,
@@ -320,7 +338,17 @@
             "ext":"https://f.cyao.tk/ext/Bili_gq.json"
         },
         {
-            "key":"Zhaozy",
+            "key":"csp_Paper",
+            "name":"小纸条(云盘)",
+            "type":3,
+            "api":"csp_Paper",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key":"csp_Zhaozy",
             "name":"找资源(云盘)",
             "type":3,
             "api":"csp_Zhaozy",
