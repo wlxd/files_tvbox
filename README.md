@@ -8,21 +8,15 @@
 
 <https://f.cyao.tk/n.json>
 
-<http://byyds.top/w.txt>
-
 <https://hutool.ml/tang>
 
 <https://饭太硬.ga/x/o.json>
 
 <https://神器每日推送.tk/pz.json>
 
-<http://home.jundie.top:81/top98.json>
-
 <http://pandown.pro/tvbox/tvbox.json>
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
-
-<https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json>
 
 <https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json>
 
