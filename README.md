@@ -18,7 +18,7 @@
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
-<https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json>
+<https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json>
 
 ## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
@@ -37,8 +37,6 @@
 <https://pastebin.com/raw/4YZDxuEX>
 
 # Github加速服务
-
-<https://raw.iqiq.io/cyao2q/files/master/n.json>
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
