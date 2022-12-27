@@ -29,13 +29,13 @@
             "filterable":1
         },
         {
-            "key":"低端影视",
-            "name":"低端影视",
+            "key":"利奥影视",
+            "name":"利奥影视",
             "type":3,
-            "api":"csp_Ddrk",
+            "api":"csp_Lib",
             "searchable":1,
             "quickSearch":1,
-            "filterable":0
+            "filterable":1
         },
         {
             "key":"酷云七七",
@@ -51,24 +51,6 @@
             "name":"快看资源",
             "type":3,
             "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"利奥影视",
-            "name":"利奥影视",
-            "type":3,
-            "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"在线之家",
-            "name":"在线之家",
-            "type":3,
-            "api":"csp_Zxzj",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -91,15 +73,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"http://121.205.88.126:7788"
-        },
-        {
-            "key":"胖虎影视",
-            "name":"胖虎影视",
-            "type":3,
-            "api":"csp_Panghu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"可乐影视",
