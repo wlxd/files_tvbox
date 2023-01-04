@@ -354,9 +354,19 @@
             "url":"https://jx.bozrc.com:4433/player/?url="
         },
         {
-            "name":"m2090",
+            "name":"xmflv1",
             "type":0,
-            "url":"https://m2090.com/?url="
+            "url":"https://dm.xmflv.com:4433/?url="
+        },
+        {
+            "name":"xmflv2",
+            "type":0,
+            "url":"https://jx.xmflv.com/?url="
+        },
+        {
+            "name":"aidouer",
+            "type":0,
+            "url":"https://jx.aidouer.net/?url="
         },
         {
             "name":"ckmov",
@@ -364,9 +374,19 @@
             "url":"https://www.ckmov.vip/api.php?url="
         },
         {
-            "name":"m3u8",
+            "name":"mtosz",
             "type":0,
-            "url":"https://jx.m3u8.tv/jiexi/?url="
+            "url":"https://www.mtosz.com/m3u8.php?url="
+        },
+        {
+            "name":"m2090",
+            "type":0,
+            "url":"https://m2090.com/?url=",
+            "ext":{
+                "header":{
+                    "User-Agent":"Mozilla/5.0"
+                }
+            }
         },
         {
             "name":"nxflv",
@@ -374,29 +394,14 @@
             "url":"https://www.nxflv.com/?url="
         },
         {
-            "name":"mtosz",
-            "type":0,
-            "url":"https://www.mtosz.com/m3u8.php?url="
+            "name":"rxjx",
+            "type":1,
+            "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
         },
         {
-            "name":"xmflv1",
+            "name":"dj6u",
             "type":0,
-            "url":"https://jx.xmflv.com/?url="
-        },
-        {
-            "name":"xmflv2",
-            "type":0,
-            "url":"https://dm.xmflv.com:4433/?url="
-        },
-        {
-            "name":"jiexi",
-            "type":0,
-            "url":"https://api.jiexi.la/?url="
-        },
-        {
-            "name":"8old",
-            "type":0,
-            "url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
+            "url":"https://jx.dj6u.com/?url="
         },
         {
             "name":"okjx",
