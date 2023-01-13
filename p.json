@@ -2,10 +2,10 @@
     "spider":"https://f.cyao.tk/jar/fty.jar;md5;A4A90401116D9F1F6A3358C63167FF1F",
     "sites":[
         {
-            "key":"360影视",
-            "name":"360影视",
+            "key":"厂长影视",
+            "name":"厂长影视",
             "type":3,
-            "api":"csp_SP360",
+            "api":"csp_Czsapp",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -20,19 +20,19 @@
             "filterable":1
         },
         {
-            "key":"厂长影视",
-            "name":"厂长影视",
+            "key":"利奥影视",
+            "name":"利奥影视",
             "type":3,
-            "api":"csp_Czsapp",
+            "api":"csp_Lib",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
         },
         {
-            "key":"利奥影视",
-            "name":"利奥影视",
+            "key":"360影视",
+            "name":"360影视",
             "type":3,
-            "api":"csp_Lib",
+            "api":"csp_SP360",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -392,11 +392,6 @@
             "name":"nxflv",
             "type":0,
             "url":"https://www.nxflv.com/?url="
-        },
-        {
-            "name":"rxjx",
-            "type":1,
-            "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
         },
         {
             "name":"dj6u",
