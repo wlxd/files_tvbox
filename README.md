@@ -2,7 +2,7 @@
 
 <https://github.com/o0HalfLife0o/TVBoxOSC/releases>
 
-## TVBox [直接下载](http://g.cyao.ml/app/tvbox.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH) [分享迷](https://www.fenxm.com/842.html)
+## TVBox [直接下载](http://g.cyao.ml/app/tvbox.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
 
 配置地址选一个输入 [也可以下载本地接口文件](https://g.cyao.ml/tvboxlc.zip)
 
@@ -21,6 +21,8 @@
 ## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
 <https://f.cyao.tk/p.json>
+
+## FongMI [GitHub仓库](https://github.com/FongMi/TV) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
 
 ## 盒子软件 [分享迷](https://www.fenxm.com/tv)
 
