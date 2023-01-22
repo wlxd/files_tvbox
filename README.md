@@ -18,8 +18,6 @@
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
-<https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
-
 ## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
 <https://f.cyao.tk/p.json>
@@ -42,9 +40,9 @@
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
-<https://raw.githubusercontents.com/cyao2q/files/master/biubiu/bb.json>
+<https://raw.githubusercontents.com/cyao2q/files/master/m.json>
 
-<https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/biubiu/bb.json>
+<https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 ## 油猴脚本
 
