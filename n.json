@@ -20,24 +20,6 @@
             "filterable":1
         },
         {
-            "key":"利奥影视",
-            "name":"利奥影视",
-            "type":3,
-            "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"在线之家",
-            "name":"在线之家",
-            "type":3,
-            "api":"csp_Zxzj",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"360影视",
             "name":"360影视",
             "type":3,
@@ -78,6 +60,24 @@
             "name":"追剧达人",
             "type":3,
             "api":"csp_Zjdr",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"利奥影视",
+            "name":"利奥影视",
+            "type":3,
+            "api":"csp_Lib",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"在线之家",
+            "name":"在线之家",
+            "type":3,
+            "api":"csp_Zxzj",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
