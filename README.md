@@ -20,8 +20,6 @@
 
 ## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
-<https://f.cyao.tk/p.json>
-
 ## FongMI [GitHub仓库](https://github.com/FongMi/TV) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
 
 ## 盒子软件 [分享迷](https://www.fenxm.com/tv)

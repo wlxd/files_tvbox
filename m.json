@@ -1,5 +1,5 @@
 {
-    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/jar/fty.jar;md5;DCE4A45660B1E61B6F02113CBAB13E16",
+    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/jar/fty.jar;md5;A4A90401116D9F1F6A3358C63167FF1F",
     "sites":[
         {
             "key":"厂长影视",
@@ -69,15 +69,6 @@
             "name":"利奥影视",
             "type":3,
             "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"在线之家",
-            "name":"在线之家",
-            "type":3,
-            "api":"csp_Zxzj",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -411,6 +402,61 @@
             "name":"okjx",
             "type":0,
             "url":"https://okjx.cc/?url="
+        }
+    ],
+    "recommend":[
+        {
+            "name":"豆瓣推荐",
+            "request":{
+                "method":"GET",
+                "header":[
+                    {
+                        "key":"Referer",
+                        "value":"https://movie.douban.com/"
+                    }
+                ],
+                "url":{
+                    "raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+                }
+            },
+            "response":{
+                "result":"$.data",
+                "data":[
+                    {
+                        "key":"name",
+                        "value":"title"
+                    },
+                    {
+                        "key":"note",
+                        "value":"rate"
+                    },
+                    {
+                        "key":"pic",
+                        "value":"cover"
+                    }
+                ]
+            },
+            "expires":"86400"
+        }
+    ],
+    "rating":[
+        {
+            "name":"豆瓣评分",
+            "request":{
+                "method":"GET",
+                "url":{
+                    "raw":"https://douban.cyao.repl.co/search?q={name}&limit=1"
+                }
+            },
+            "response":{
+                "result":"this",
+                "data":[
+                    {
+                        "key":"rating",
+                        "value":"rating"
+                    }
+                ]
+            }
         }
     ],
     "flags":[
