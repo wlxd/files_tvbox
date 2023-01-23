@@ -74,16 +74,6 @@
             "filterable":1
         },
         {
-            "key":"图图影视",
-            "name":"图图影视",
-            "type":3,
-            "api":"csp_AppTT",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://124.248.66.107:9955"
-        },
-        {
             "key":"可乐影视",
             "name":"可乐影视",
             "type":3,
