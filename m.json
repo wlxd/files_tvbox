@@ -97,15 +97,6 @@
             "ext":"bdc1c75081e5e477189a463baa47e392"
         },
         {
-            "key":"追剧达人",
-            "name":"追剧达人",
-            "type":3,
-            "api":"csp_Zjdr",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"可乐影视",
             "name":"可乐影视",
             "type":3,
@@ -344,7 +335,7 @@
         },
         {
             "key":"csp_Paper",
-            "name":"小纸条(云盘)",
+            "name":"纸条(云盘)",
             "type":3,
             "api":"csp_Paper",
             "searchable":1,
