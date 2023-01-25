@@ -26,7 +26,7 @@
 
 [PuffinTV浏览器](https://cyao.lanzouy.com/iUuuH08lt6kf) [飞视浏览器](https://cyao.lanzouy.com/irdJv08lt7bc)
 
-[儿歌多多](https://www.fenxm.com/613.html) [秒看电视](https://www.fenxm.com/862.html)
+[儿歌多多](https://www.fenxm.com/613.html) [秒看电视](https://www.fenxm.com/862.html) [神鸟电视](https://www.fenxm.com/908.html)
 
 [当贝桌面](https://www.fenxm.com/626.html) [蛮荒桌面](https://www.fenxm.com/877.html)
 
