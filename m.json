@@ -1,5 +1,5 @@
 {
-    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/jar/fty.jar;md5;A4A90401116D9F1F6A3358C63167FF1F",
+    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/jar/fty.jar;md5;DCE4A45660B1E61B6F02113CBAB13E16",
     "sites":[
         {
             "key":"厂长影视",
@@ -56,19 +56,51 @@
             "filterable":1
         },
         {
-            "key":"追剧达人",
-            "name":"追剧达人",
-            "type":3,
-            "api":"csp_Zjdr",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "key":"图图影视",
+            "name":"图图影视",
+            "type":"3",
+            "api":"csp_Dora",
+            "playerType":2,
+            "searchable":"1",
+            "quickSearch":"1",
+            "filterable":"1",
+            "ext":"110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key":"利奥影视",
             "name":"利奥影视",
             "type":3,
             "api":"csp_Lib",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"胖虎影视",
+            "name":"胖虎影视",
+            "type":3,
+            "api":"csp_Panghu",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"天天影视",
+            "name":"天天影视",
+            "type":"3",
+            "api":"csp_Dora",
+            "playerType":2,
+            "searchable":"1",
+            "quickSearch":"1",
+            "filterable":"1",
+            "ext":"bdc1c75081e5e477189a463baa47e392"
+        },
+        {
+            "key":"追剧达人",
+            "name":"追剧达人",
+            "type":3,
+            "api":"csp_Zjdr",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -87,15 +119,6 @@
             "name":"视觉影院",
             "type":3,
             "api":"csp_Xinsj",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"饭团影视",
-            "name":"饭团影视",
-            "type":3,
-            "api":"csp_Fantuan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -135,6 +158,27 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"南柯影视",
+            "name":"南柯影视",
+            "type":3,
+            "api":"csp_Nkdy",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"兔兔影视",
+            "name":"兔兔影视",
+            "type":3,
+            "api":"csp_AppTT2",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://124.248.66.89:7788"
         },
         {
             "key":"农民影视",
@@ -309,10 +353,30 @@
             "ext":"http://ali.饭太硬.ml/tok"
         },
         {
-            "key":"csp_Zhaozy",
-            "name":"找资源(云盘)",
+            "key":"PanSou",
+            "name":"盘搜(云盘)",
             "type":3,
-            "api":"csp_Zhaozy",
+            "api":"csp_PanSou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key":"UpYun",
+            "name":"Up搜(云盘)",
+            "type":3,
+            "api":"csp_UpYun",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key":"YiSo",
+            "name":"易搜(云盘)",
+            "type":3,
+            "api":"csp_YiSo",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
