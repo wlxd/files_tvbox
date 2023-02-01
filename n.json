@@ -151,27 +151,6 @@
             "filterable":1
         },
         {
-            "key":"兔兔影视",
-            "name":"兔兔影视",
-            "type":3,
-            "api":"csp_AppTT2",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://124.248.66.89:7788"
-        },
-        {
-            "key":"农民影视",
-            "name":"农民影视",
-            "type":3,
-            "api":"csp_Nmys",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://f.cyao.tk/ext/Nmys.json"
-        },
-        {
             "key":"量子资源",
             "name":"量子资源",
             "type":1,
