@@ -244,7 +244,7 @@
             "filterable":1
         },
         {
-            "key":"LiteApple",
+            "key":"小苹果",
             "name":"小苹果(LiteApple)",
             "type":3,
             "api":"csp_LiteApple",
@@ -313,7 +313,7 @@
             "ext":"http://ali.饭太硬.ml/tok"
         },
         {
-            "key":"csp_Paper",
+            "key":"Paper",
             "name":"纸条(云盘)",
             "type":3,
             "api":"csp_Paper",
