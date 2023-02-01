@@ -303,6 +303,16 @@
             "ext":"https://f.cyao.tk/ext/Bili_gq.json"
         },
         {
+            "key":"UpYun",
+            "name":"Up搜(云盘)",
+            "type":3,
+            "api":"csp_UpYun",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://ali.饭太硬.ml/tok"
+        },
+        {
             "key":"csp_Paper",
             "name":"纸条(云盘)",
             "type":3,
@@ -317,16 +327,6 @@
             "name":"盘搜(云盘)",
             "type":3,
             "api":"csp_PanSou",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key":"UpYun",
-            "name":"Up搜(云盘)",
-            "type":3,
-            "api":"csp_UpYun",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
