@@ -67,15 +67,6 @@
             "ext":"110c922de7d69804467fb83d3bb664b5"
         },
         {
-            "key":"利奥影视",
-            "name":"利奥影视",
-            "type":3,
-            "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"天天影视",
             "name":"天天影视",
             "type":"3",
@@ -203,6 +194,16 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://f.cyao.tk/ext/lib.json"
+        },
+        {
+            "key":"在线之家",
+            "name":"在线之家(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://f.cyao.tk/ext/zxzj.json"
         },
         {
             "key":"动漫巴士",
