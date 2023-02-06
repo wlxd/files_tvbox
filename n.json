@@ -2,10 +2,10 @@
     "spider":"https://f.cyao.tk/jar/fty.jar;md5;7752AF3C1172ECB63C2D077FD017D0C3",
     "sites":[
         {
-            "key":"厂长影视",
-            "name":"厂长影视",
+            "key":"快看资源",
+            "name":"快看资源",
             "type":3,
-            "api":"csp_Czsapp",
+            "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -47,10 +47,10 @@
             "filterable":1
         },
         {
-            "key":"快看资源",
-            "name":"快看资源",
+            "key":"厂长影视",
+            "name":"厂长影视",
             "type":3,
-            "api":"csp_Kuaikan",
+            "api":"csp_Czsapp",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
