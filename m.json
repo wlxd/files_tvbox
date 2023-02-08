@@ -2,6 +2,15 @@
     "spider":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/jar/fty.jar;md5;DD961017955C9A6356A17D060B1B66BE",
     "sites":[
         {
+            "key":"厂长影视",
+            "name":"厂长影视",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"快看资源",
             "name":"快看资源",
             "type":3,
@@ -29,6 +38,15 @@
             "filterable":1
         },
         {
+            "key":"2345影视",
+            "name":"2345影视",
+            "type":3,
+            "api":"csp_SP2345",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"低端影视",
             "name":"低端影视",
             "type":3,
@@ -42,15 +60,6 @@
             "name":"酷云七七",
             "type":3,
             "api":"csp_Kunyu77",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"厂长影视",
-            "name":"厂长影视",
-            "type":3,
-            "api":"csp_Czsapp",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -359,9 +368,38 @@
     ],
     "parses":[
         {
-            "name":"MixWeb",
+            "name":"Json聚合",
+            "type":3,
+            "url":"Demo"
+        },
+        {
+            "name":"Web聚合",
             "type":3,
             "url":"Web"
+        },
+        {
+            "name":"jiexi",
+            "type":1,
+            "url":"https://jiexi.parses.repl.co/api.php?url="
+        },
+        {
+            "name":"ckflv",
+            "type":1,
+            "url":"http://lanlan.ckflv.cn/?url=",
+            "ext":{
+                "flag":[
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
         },
         {
             "name":"parwix",
@@ -377,6 +415,11 @@
             "name":"xmflv2",
             "type":0,
             "url":"https://jx.xmflv.com/?url="
+        },
+        {
+            "name":"jiaqing",
+            "type":0,
+            "url":"https://tljiaqing.nde.tw/m3u8/?url="
         },
         {
             "name":"aidouer",
