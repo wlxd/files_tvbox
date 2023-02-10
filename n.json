@@ -310,7 +310,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://ali.饭太硬.ml/tok"
+            "ext":"http://ali.饭太硬.ml/nn"
         },
         {
             "key":"Paper",
@@ -320,7 +320,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://ali.饭太硬.ml/tok"
+            "ext":"http://ali.饭太硬.ml/nn"
         },
         {
             "key":"PanSou",
@@ -330,7 +330,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://ali.饭太硬.ml/tok"
+            "ext":"http://ali.饭太硬.ml/nn"
         },
         {
             "key":"YiSo",
@@ -340,7 +340,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://ali.饭太硬.ml/tok"
+            "ext":"http://ali.饭太硬.ml/nn"
         }
     ],
     "lives":[
