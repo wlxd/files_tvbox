@@ -235,15 +235,6 @@
             "ext":"{\n    \"免嗅\": \"0\",\n    \"副标题\": \"right\\\">&&</span>\",\n    \"播放标题\": \">&&</a>\",\n    \"播放数组\": \"<ul class=\\\"stui-content__playlist&&</ul>\",\n    \"线路数组\": \"<img src=&&/h3>\",\n    \"线路标题\": \">&&</a>\",\n    \"分类url\": \"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\n    \"分类\": \"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\n    \"类型\": \"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\n    \"地区\": \"0\",\n    \"剧情\": \"0\",\n    \"年份\": \"0\",\n    \"排序\": \"0\",\n    \"筛选\": \"1\"\n}"
         },
         {
-            "key":"555电影",
-            "name":"555电影(Dy555)",
-            "type":3,
-            "api":"csp_Dy555",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"小苹果",
             "name":"小苹果(LiteApple)",
             "type":3,
