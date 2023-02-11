@@ -30,10 +30,6 @@
 
 [当贝桌面](https://www.fenxm.com/626.html) [蛮荒桌面](https://www.fenxm.com/877.html)
 
-## BiuBiu播放器 [蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe) [分享迷](https://www.fenxm.com/806.html)   
-
-<https://pastebin.com/raw/4YZDxuEX>
-
 # Github加速服务
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
@@ -41,6 +37,8 @@
 <https://raw.githubusercontents.com/cyao2q/files/master/m.json>
 
 <https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+
+<https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 ## 油猴脚本
 
