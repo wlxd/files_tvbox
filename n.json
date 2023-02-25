@@ -269,7 +269,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://ali.饭太硬.ml/token"
+            "ext":"https://ali.cyao.repl.co"
         },
         {
             "key":"Paper",
@@ -279,7 +279,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://ali.饭太硬.ml/token"
+            "ext":"https://ali.cyao.repl.co"
         },
         {
             "key":"PanSou",
@@ -289,7 +289,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://ali.饭太硬.ml/token"
+            "ext":"https://ali.cyao.repl.co"
         },
         {
             "key":"YiSo",
@@ -299,7 +299,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://ali.饭太硬.ml/token"
+            "ext":"https://ali.cyao.repl.co"
         }
     ],
     "lives":[
