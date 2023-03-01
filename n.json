@@ -74,15 +74,6 @@
             "filterable":1
         },
         {
-            "key":"视觉影院",
-            "name":"视觉影院",
-            "type":3,
-            "api":"csp_Xinsj",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"双十电影",
             "name":"双十电影",
             "type":3,
