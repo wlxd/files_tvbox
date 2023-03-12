@@ -8,9 +8,9 @@
 
 <https://f.cyao.tk/n.json>
 
-<https://hutool.ml/tang>
+<http://饭太硬.ga/tv>
 
-<https://饭太硬.ga/x/o.json>
+<https://hutool.ml/tang>
 
 <http://pandown.pro/tvbox/tvbox.json>
 
