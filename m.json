@@ -11,13 +11,13 @@
             "filterable":1
         },
         {
-            "key":"快看资源",
-            "name":"快看资源",
+            "key":"低端影视",
+            "name":"低端影视",
             "type":3,
-            "api":"csp_Kuaikan",
+            "api":"csp_Ddrk",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":0
         },
         {
             "key":"影视推荐",
@@ -47,13 +47,13 @@
             "filterable":1
         },
         {
-            "key":"低端影视",
-            "name":"低端影视",
+            "key":"快看资源",
+            "name":"快看资源",
             "type":3,
-            "api":"csp_Ddrk",
+            "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
-            "filterable":0
+            "filterable":1
         },
         {
             "key":"酷云七七",
