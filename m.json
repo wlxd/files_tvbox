@@ -1,5 +1,5 @@
 {
-    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/jar/fty.jar;md5;6627AD8B399B3CB8A34DAFDB3B7747FA",
+    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/jar/fty.jar;md5;F0510D5C67A9E527D0E083DAEC733951",
     "sites":[
         {
             "key":"厂长影视",
@@ -45,6 +45,15 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"低端影视ddys.art",
+            "name":"低端影视",
+            "type":3,
+            "api":"csp_Ddys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
         },
         {
             "key":"快看资源",
