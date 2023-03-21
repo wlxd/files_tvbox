@@ -428,7 +428,7 @@
                     }
                 ],
                 "url":{
-                    "raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+                    "raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2023"
                 }
             },
             "response":{
@@ -466,6 +466,26 @@
                     {
                         "key":"rating",
                         "value":"rating"
+                    }
+                ]
+            }
+        }
+    ],
+    "association":[
+        {
+            "name":"iqiyi",
+            "request":{
+                "method":"GET",
+                "url":{
+                    "raw":"https://suggest.video.iqiyi.com/?if=mobile&key={query}"
+                }
+            },
+            "response":{
+                "result":"$.data",
+                "data":[
+                    {
+                        "key":"keyword",
+                        "value":"name"
                     }
                 ]
             }
