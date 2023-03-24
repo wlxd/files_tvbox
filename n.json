@@ -327,19 +327,9 @@
     ],
     "parses":[
         {
-            "name":"Json聚合",
-            "type":3,
-            "url":"Demo"
-        },
-        {
             "name":"Web聚合",
             "type":3,
             "url":"Web"
-        },
-        {
-            "name":"jiexi",
-            "type":1,
-            "url":"https://jiexi.parses.repl.co/api.php?url="
         },
         {
             "name":"ckflv",
