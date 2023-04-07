@@ -8,9 +8,9 @@
 
 <https://f.cyao.tk/n.json>
 
-<https://hutool.ml/tang>
-
 <http://饭太硬.ga/tv>
+
+<https://hutool.ml/tang>
 
 <http://pandown.pro/tvbox/tvbox.json>
 
@@ -18,9 +18,9 @@
 
 <https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json>
 
-<https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json>
-
 <https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+
+<https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json>
 
 ## PlutoPlayer [直接下载](https://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
