@@ -16,6 +16,10 @@
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
+<https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json>
+
+<https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json>
+
 <https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 ## PlutoPlayer [直接下载](https://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
