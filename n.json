@@ -325,7 +325,7 @@
         {
             "name":"parwix",
             "type":0,
-            "url":"https://jx.bozrc.com:4433/player/?url="
+            "url":"https://jx.jsonplayer.com/player/?url="
         },
         {
             "name":"xmflv1",
@@ -336,11 +336,6 @@
             "name":"xmflv2",
             "type":0,
             "url":"https://jx.xmflv.com/?url="
-        },
-        {
-            "name":"jiaqing",
-            "type":0,
-            "url":"https://tljiaqing.nde.tw/m3u8/?url="
         },
         {
             "name":"aidouer",
@@ -355,17 +350,12 @@
         {
             "name":"mtosz",
             "type":0,
-            "url":"https://www.mtosz.com/m3u8.php?url="
+            "url":"https://www.mtosz.com/erzi.php?url="
         },
         {
             "name":"m2090",
             "type":0,
-            "url":"https://m2090.com/?url=",
-            "ext":{
-                "header":{
-                    "User-Agent":"Mozilla/5.0"
-                }
-            }
+            "url":"https://m2090.com/?url="
         },
         {
             "name":"nxflv",

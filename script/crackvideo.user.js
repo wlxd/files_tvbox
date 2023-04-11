@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           破解VIP会员视频-优化整理版
 // @namespace      https://github.com/cyao2q/files
-// @version        1.1.2
+// @version        1.1.3
 // @description    一键破解[优酷|腾讯|乐视|爱奇艺]等会员视频
 // @author         漠星曜
 // @license        MIT
@@ -83,11 +83,11 @@
   
   var defaultapi = {
     title: "Parwix解析",
-    url: "https://jx.bozrc.com:4433/player/?url="
+    url: "https://jx.jsonplayer.com/player/?url="
   };
   
   var apis =[
-    {title:"parwix",url:"https://jx.bozrc.com:4433/player/?url="},
+    {title:"parwix",url:"https://jx.jsonplayer.com/player/?url="},
     {title:"nxflv",url:"https://www.nxflv.com/?url="},
     {title:"xmflv",url:"https://jx.xmflv.com/?url="},
     {title:"m2090",url:"https://m2090.com/?url="},
@@ -96,7 +96,7 @@
     {title:"okjx",url:"https://okjx.cc/?url="},
     {title:"zui",url:"https://jx.zui.cm/?url="},
     {title:"jiexi",url:"https://api.jiexi.la/?url="},
-    {title:"mtosz",url:"https://www.mtosz.com/m3u8.php?url="}
+    {title:"mtosz",url:"https://www.mtosz.com/erzi.php?url="}
   ];
 
   /*  执行  */
