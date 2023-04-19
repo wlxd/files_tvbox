@@ -10,8 +10,6 @@
 
 <http://饭太硬.ga/tv>
 
-<https://hutool.ml/tang>
-
 <http://pandown.pro/tvbox/tvbox.json>
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
