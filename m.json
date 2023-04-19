@@ -1,5 +1,5 @@
 {
-    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/jar/fty.jar;md5;CD4C7F811864B0D97885EC48303000A4",
+    "spider":"./jar/fty.jar;md5;CD4C7F811864B0D97885EC48303000A4",
     "sites":[
         {
             "key":"360影视",
@@ -143,7 +143,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/ext/lib.json"
+            "ext":"./ext/lib.json"
         },
         {
             "key":"动漫巴士",
@@ -153,7 +153,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/ext/dm84.json"
+            "ext":"./ext/dm84.json"
         },
         {
             "key":"98影院",
@@ -182,7 +182,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/ext/Bili.json"
+            "ext":"./ext/Bili.json"
         },
         {
             "key":"相声小品",
@@ -192,7 +192,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/ext/Bili_xs.json"
+            "ext":"./ext/Bili_xs.json"
         },
         {
             "key":"国粹戏曲",
@@ -202,7 +202,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/ext/Bili_xq.json"
+            "ext":"./ext/Bili_xq.json"
         },
         {
             "key":"女团热舞",
@@ -212,7 +212,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/ext/Bili_rw.json"
+            "ext":"./ext/Bili_rw.json"
         },
         {
             "key":"歌曲MV",
@@ -222,7 +222,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/ext/Bili_gq.json"
+            "ext":"./ext/Bili_gq.json"
         },
         {
             "key":"UpYun",
@@ -272,7 +272,7 @@
                 {
                     "name":"redirect",
                     "urls":[
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2YuY3lhby50ay9saXZlLnR4dA=="
+                        "proxy://do=live&type=txt&ext=./live.txt"
                     ]
                 }
             ]
