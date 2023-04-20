@@ -36,9 +36,9 @@
 
 # Github加速服务
 
-<https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
+<https://cdn.jsdelivr.net/gh/cyao2q/files/m.json>
 
-<https://raw.githubusercontents.com/cyao2q/files/master/m.json>
+<https://raw.gitmirror.com/cyao2q/files/master/m.json>
 
 <https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
