@@ -18,6 +18,8 @@
 
 <https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
+<https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+
 ## PlutoPlayer [直接下载](https://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
 ## FongMI [GitHub仓库](https://github.com/FongMi/TV) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
