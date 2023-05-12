@@ -226,30 +226,10 @@
             "ext":"https://f.cyao.repl.co/tok.txt"
         },
         {
-            "key":"Paper",
-            "name":"纸条(云盘)",
-            "type":3,
-            "api":"csp_Paper",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://f.cyao.repl.co/tok.txt"
-        },
-        {
             "key":"PanSou",
             "name":"盘搜(云盘)",
             "type":3,
             "api":"csp_PanSou",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://f.cyao.repl.co/tok.txt"
-        },
-        {
-            "key":"YiSo",
-            "name":"易搜(云盘)",
-            "type":3,
-            "api":"csp_YiSo",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
