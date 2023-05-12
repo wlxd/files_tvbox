@@ -2,10 +2,10 @@
     "spider":"./jar/fty.jar;md5;CD4C7F811864B0D97885EC48303000A4",
     "sites":[
         {
-            "key":"360影视",
-            "name":"360影视",
+            "key":"酷云七七",
+            "name":"酷云七七",
             "type":3,
-            "api":"csp_SP360",
+            "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -33,15 +33,6 @@
             "name":"快看资源",
             "type":3,
             "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"酷云七七",
-            "name":"酷云七七",
-            "type":3,
-            "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
