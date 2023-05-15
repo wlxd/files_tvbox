@@ -56,15 +56,6 @@
             "filterable":1
         },
         {
-            "key":"两个鼻涕",
-            "name":"两个鼻涕",
-            "type":3,
-            "api":"csp_Bttoo",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"影视工厂",
             "name":"影视工厂",
             "type":3,
@@ -216,20 +207,20 @@
             "ext":"./ext/Bili_gq.json"
         },
         {
-            "key":"UpYun",
-            "name":"Up搜(云盘)",
+            "key":"PanSou",
+            "name":"盘搜(云盘)",
             "type":3,
-            "api":"csp_UpYun",
+            "api":"csp_PanSou",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
             "ext":"https://f.cyao.repl.co/tok.txt"
         },
         {
-            "key":"PanSou",
-            "name":"盘搜(云盘)",
+            "key":"UpYun",
+            "name":"Up搜(云盘)",
             "type":3,
-            "api":"csp_PanSou",
+            "api":"csp_UpYun",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
