@@ -14,8 +14,6 @@
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
-<https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json>
-
 <https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
