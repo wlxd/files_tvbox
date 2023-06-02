@@ -1,6 +1,15 @@
 {
-    "spider":"./jar/fty.jar;md5;CD4C7F811864B0D97885EC48303000A4",
+    "spider":"./jar/fty2023.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
     "sites":[
+        {
+            "key":"酷云七七",
+            "name":"酷云七七",
+            "type":3,
+            "api":"csp_Kunyu77",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
         {
             "key":"厂长影视",
             "name":"厂长影视",
@@ -29,6 +38,95 @@
             "filterable":1
         },
         {
+            "key":"如如影视",
+            "name":"如如影视",
+            "type":3,
+            "api":"csp_AppYsV2",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://cms.maoyingshi.cc/api.php/app/"
+        },
+        {
+            "key":"一起看啊",
+            "name":"一起看啊",
+            "type":3,
+            "api":"csp_YQKAPP",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://api-aws.11ty.top"
+        },
+        {
+            "key":"苹果影视",
+            "name":"苹果影视",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"图图影视",
+            "name":"图图影视",
+            "type":3,
+            "api":"csp_AppTT",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+        },
+        {
+            "key":"布雷影视",
+            "name":"布雷影视",
+            "type":3,
+            "api":"csp_BuLei",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"
+        },
+        {
+            "key":"利奥影视",
+            "name":"利奥影视",
+            "type":3,
+            "api":"csp_Libvio",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://tv.libvio.cc/"
+        },
+        {
+            "key":"农民影视",
+            "name":"农民影视",
+            "type":3,
+            "api":"csp_Nmys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./ext/Nmys.json"
+        },
+        {
+            "key":"比特影视",
+            "name":"比特影视",
+            "type":3,
+            "api":"csp_Bttwoo",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"饭团影视",
+            "name":"饭团影视",
+            "type":3,
+            "api":"csp_Fantuan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://www.fantuanhd.com"
+        },
+        {
             "key":"可乐影视",
             "name":"可乐影视",
             "type":3,
@@ -53,13 +151,92 @@
             "api":"csp_Ysgc",
             "searchable":1,
             "quickSearch":1,
+            "filterable":1,
+            "ext":"https://www.ysgc.vip"
+        },
+        {
+            "key":"奥特影视",
+            "name":"奥特影视",
+            "type":3,
+            "api":"csp_Auete",
+            "searchable":1,
+            "quickSearch":1,
             "filterable":1
         },
         {
-            "key":"2345影视",
-            "name":"2345影视",
+            "key":"明明影视",
+            "name":"明明影视",
             "type":3,
-            "api":"csp_SP2345",
+            "api":"csp_AppMr",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"黄黄影视",
+            "name":"黄黄影视",
+            "api":"csp_AppYsV2",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1,
+            "ext":"https://yayayaaapp.ynf.icu/api.php/app/"
+        },
+        {
+            "key":"在线之家",
+            "name":"在线之家",
+            "type":3,
+            "api":"csp_Zxzj",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://www.zxzj.pro/"
+        },
+        {
+            "key":"SP360",
+            "name":"三三解析",
+            "type":3,
+            "api":"csp_SP33",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0
+        },
+        {
+            "key":"Qtv",
+            "name":"腾腾解析",
+            "type":3,
+            "api":"csp_Qtv",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0
+        },
+        {
+            "key":"Itv",
+            "name":"爱爱解析",
+            "type":3,
+            "api":"csp_Itv",
+            "quickSearch":1,
+            "searchable":1,
+            "filterable":1,
+            "changeable":0
+        },
+        {
+            "key":"Mtv",
+            "name":"芒芒解析",
+            "type":3,
+            "api":"csp_Mtv",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0
+        },
+        {
+            "key":"动漫巴士",
+            "name":"动漫巴士",
+            "type":3,
+            "api":"csp_Dm84",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -107,45 +284,6 @@
             "api":"http://www.kuaibozy.com/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
-        },
-        {
-            "key":"利奥影视",
-            "name":"利奥影视(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./ext/lib.json"
-        },
-        {
-            "key":"动漫巴士",
-            "name":"动漫巴士(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"./ext/dm84.json"
-        },
-        {
-            "key":"98影院",
-            "name":"98影院(xBPQ)",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"{\n    \"免嗅\": \"0\",\n    \"副标题\": \"right\\\">&&</span>\",\n    \"播放标题\": \">&&</a>\",\n    \"播放数组\": \"<ul class=\\\"stui-content__playlist&&</ul>\",\n    \"线路数组\": \"<img src=&&/h3>\",\n    \"线路标题\": \">&&</a>\",\n    \"分类url\": \"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\n    \"分类\": \"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\n    \"类型\": \"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\n    \"地区\": \"0\",\n    \"剧情\": \"0\",\n    \"年份\": \"0\",\n    \"排序\": \"0\",\n    \"筛选\": \"1\"\n}"
-        },
-        {
-            "key":"小苹果",
-            "name":"小苹果(LiteApple)",
-            "type":3,
-            "api":"csp_LiteApple",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"哔哩哔哩",
@@ -196,32 +334,83 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"./ext/Bili_gq.json"
+        },
+        {
+            "key":"YiSo",
+            "name":"易搜┃搜索",
+            "type":3,
+            "api":"csp_YiSo",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "changeable":0,
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
+            "key":"PanSou",
+            "name":"盘搜┃搜索",
+            "type":3,
+            "api":"csp_PanSou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "changeable":0,
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
+            "key":"七夜",
+            "name":"七夜┃搜索",
+            "type":3,
+            "api":"csp_Dovx",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "changeable":0,
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
+            "key":"UpYun",
+            "name":"Up搜┃搜索",
+            "type":3,
+            "api":"csp_UpYun",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "changeable":0,
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+        },
+        {
+            "key":"Zhaozy",
+            "name":"找资源┃搜索",
+            "type":3,
+            "api":"csp_Zhaozy",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "changeable":0,
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$fanfan$$$qqq111"
         }
     ],
     "parses":[
         {
-            "name":"Web聚合",
+            "name":"聚合1",
+            "type":3,
+            "url":"Demo"
+        },
+        {
+            "name":"聚合0",
             "type":3,
             "url":"Web"
         },
         {
-            "name":"ckflv",
+            "name":"777",
+            "type":0,
+            "url":"https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name":"json",
             "type":1,
-            "url":"http://lanlan.ckflv.cn/?url=",
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
-            }
+            "url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="
         },
         {
             "name":"parwix",

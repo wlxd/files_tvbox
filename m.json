@@ -205,23 +205,9 @@
             "url":"Web"
         },
         {
-            "name":"ckflv",
-            "type":1,
-            "url":"http://lanlan.ckflv.cn/?url=",
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
-            }
+            "name":"777",
+            "type":0,
+            "url":"https://jx.777jiexi.com/player/?url="
         },
         {
             "name":"parwix",
