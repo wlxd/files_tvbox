@@ -14,13 +14,11 @@
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
-<https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
-
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
-## FongMI [GitHub仓库]([https://github.com/FongMi/TV](https://github.com/FongMi/TV/releases)) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
+## FongMI [GitHub仓库](https://github.com/FongMi/TV/releases) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
 
 ## PlutoPlayer [直接下载](https://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
