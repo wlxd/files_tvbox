@@ -8,7 +8,7 @@
 
 <https://f.cyao.tk/n.json>
 
-<http://饭太硬.ga/tv>
+<http://饭太硬.top/tv>
 
 <http://pandown.pro/tvbox/tvbox.json>
 
