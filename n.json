@@ -68,16 +68,6 @@
             "filterable":1
         },
         {
-            "key":"图图影视",
-            "name":"图图影视",
-            "type":3,
-            "api":"csp_AppTT",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-        },
-        {
             "key":"布雷影视",
             "name":"布雷影视",
             "type":3,
@@ -85,7 +75,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"
+            "ext":"https://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
             "key":"利奥影视",
@@ -250,6 +240,26 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"csp_XBPQ_酷奇",
+            "name":"酷奇MV",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"./ext/kuqimv.json"
+        },
+        {
+            "key":"csp_XBPQ_聚短视频",
+            "name":"聚短视频",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"./ext/sharenice.json"
         },
         {
             "key":"量子资源",
