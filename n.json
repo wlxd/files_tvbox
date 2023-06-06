@@ -298,10 +298,29 @@
             "quickSearch":1
         },
         {
-            "key":"快播资源",
-            "name":"快播资源",
+            "key":"明帝影视",
+            "name":"明帝影视",
             "type":1,
-            "api":"http://www.kuaibozy.com/api.php/provide/vod/",
+            "api":"https://ys.md214.cn/api.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"诺讯资源",
+            "name":"诺讯资源",
+            "type":1,
+            "api":"https://xxx.nxflv.com/api.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"三九影视",
+            "name":"三九影视",
+            "type":1,
+            "api":"https://www.39kan.com/api.php/provide/vod/",
+            "playUrl":"",
             "searchable":1,
             "quickSearch":1
         },
@@ -413,12 +432,12 @@
     ],
     "parses":[
         {
-            "name":"聚合1",
-            "type":3,
-            "url":"Demo"
+            "name":"json",
+            "type":1,
+            "url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="
         },
         {
-            "name":"聚合0",
+            "name":"聚合",
             "type":3,
             "url":"Web"
         },
@@ -426,11 +445,6 @@
             "name":"777",
             "type":0,
             "url":"https://jx.777jiexi.com/player/?url="
-        },
-        {
-            "name":"json",
-            "type":1,
-            "url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="
         },
         {
             "name":"parwix",
