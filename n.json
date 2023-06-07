@@ -87,16 +87,6 @@
             "filterable":1
         },
         {
-            "key":"布雷影视",
-            "name":"布雷影视",
-            "type":3,
-            "api":"csp_BuLei",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
-        },
-        {
             "key":"利奥影视",
             "name":"利奥影视",
             "type":3,
