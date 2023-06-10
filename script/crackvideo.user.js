@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           破解VIP会员视频-优化整理版
 // @namespace      https://github.com/cyao2q/files
-// @version        1.1.3
+// @version        1.1.4
 // @description    一键破解[优酷|腾讯|乐视|爱奇艺]等会员视频
 // @author         漠星曜
 // @license        MIT
@@ -90,7 +90,6 @@
     {title:"parwix",url:"https://jx.jsonplayer.com/player/?url="},
     {title:"nxflv",url:"https://www.nxflv.com/?url="},
     {title:"xmflv",url:"https://jx.xmflv.com/?url="},
-    {title:"m2090",url:"https://m2090.com/?url="},
     {title:"m3u8",url:"https://jx.m3u8.tv/jiexi/?url="},
     {title:"ckmov",url:"https://www.ckmov.vip/api.php?url="},
     {title:"okjx",url:"https://okjx.cc/?url="},

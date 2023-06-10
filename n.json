@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Yao.jar;md5;8E5F048383B35728C4F1BB21C708C0C7",
+    "spider":"./jar/Yao.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
     "sites":[
         {
             "key":"酷云七七",
@@ -33,15 +33,6 @@
             "name":"快看资源",
             "type":3,
             "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"秒播视频",
-            "name":"秒播视频",
-            "type":3,
-            "api":"csp_Miaobo",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -475,11 +466,6 @@
             "name":"mtosz",
             "type":0,
             "url":"https://www.mtosz.com/erzi.php?url="
-        },
-        {
-            "name":"m2090",
-            "type":0,
-            "url":"https://m2090.com/?url="
         },
         {
             "name":"nxflv",
