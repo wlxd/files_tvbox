@@ -262,15 +262,6 @@
             "ext":"./ext/sharenice.json"
         },
         {
-            "key":"明帝影视",
-            "name":"明帝影视",
-            "type":1,
-            "api":"https://ys.md214.cn/api.php/provide/vod/",
-            "playUrl":"",
-            "searchable":1,
-            "quickSearch":1
-        },
-        {
             "key":"诺讯资源",
             "name":"诺讯资源",
             "type":1,
