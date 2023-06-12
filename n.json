@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Yao.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
+    "spider":"./jar/Yao.jar;md5;F29E9BC19D40C5D4CBB271EC41172C74",
     "sites":[
         {
             "key":"酷云七七",
@@ -237,6 +237,33 @@
             "name":"动漫巴士",
             "type":3,
             "api":"csp_Dm84",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"樱花动漫",
+            "name":"樱花动漫",
+            "type":3,
+            "api":"csp_Ying",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"异界动漫",
+            "name":"异界动漫",
+            "type":3,
+            "api":"csp_Ysj",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"日本动漫",
+            "name":"日本动漫",
+            "type":3,
+            "api":"csp_Anime1",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
