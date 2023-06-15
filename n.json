@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Yao.jar;md5;F29E9BC19D40C5D4CBB271EC41172C74",
+    "spider":"./jar/Butterfly.jar;md5;F29E9BC19D40C5D4CBB271EC41172C74",
     "sites":[
         {
             "key":"酷云七七",
@@ -173,8 +173,8 @@
             "filterable":1
         },
         {
-            "key":"黄黄影视",
-            "name":"黄黄影视",
+            "key":"鸭鸭影视",
+            "name":"鸭鸭影视",
             "api":"csp_AppYsV2",
             "type":3,
             "filterable":1,
@@ -204,7 +204,7 @@
         },
         {
             "key":"Qtv",
-            "name":"腾腾解析",
+            "name":"腾讯视频",
             "type":3,
             "api":"csp_Qtv",
             "searchable":1,
@@ -214,7 +214,7 @@
         },
         {
             "key":"Itv",
-            "name":"爱爱解析",
+            "name":"爱奇艺",
             "type":3,
             "api":"csp_Itv",
             "quickSearch":1,
@@ -224,7 +224,7 @@
         },
         {
             "key":"Mtv",
-            "name":"芒芒解析",
+            "name":"芒果TV",
             "type":3,
             "api":"csp_Mtv",
             "searchable":1,
