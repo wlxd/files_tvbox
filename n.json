@@ -491,7 +491,17 @@
         {
             "name":"聚合",
             "type":3,
-            "url":"Web"
+            "url":"Demo"
+        },
+        {
+            "name":"cygc",
+            "type":1,
+            "url":"https://api.cygc.xyz/analysis/?url="
+        },
+        {
+            "name":"jhjson",
+            "type":1,
+            "url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="
         },
         {
             "name":"parwix",
@@ -507,6 +517,31 @@
             "name":"xmflv2",
             "type":0,
             "url":"https://jx.xmflv.com/?url="
+        },
+        {
+            "name":"jiexi",
+            "type":0,
+            "url":"https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name":"pouyun",
+            "type":0,
+            "url":"https://www.pouyun.com/?url="
+        },
+        {
+            "name":"ppflv",
+            "type":0,
+            "url":"https://jx.ppflv.com/?url="
+        },
+        {
+            "name":"yemu",
+            "type":0,
+            "url":"https://www.yemu.xyz/?url="
+        },
+        {
+            "name":"m3u8",
+            "type":0,
+            "url":"https://jx.m3u8.pw/?url="
         },
         {
             "name":"aidouer",
