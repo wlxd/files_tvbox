@@ -10,6 +10,8 @@
 
 <http://饭太硬.top/tv>
 
+<https://yydsys.top/duo>
+
 <http://pandown.pro/tvbox/tvbox.json>
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
