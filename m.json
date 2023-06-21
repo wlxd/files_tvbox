@@ -230,7 +230,7 @@
             "filterable":1
         },
         {
-            "key":"csp_XBPQ_酷奇",
+            "key":"酷奇MV",
             "name":"酷奇MV",
             "type":3,
             "api":"csp_XBPQ",
@@ -240,7 +240,16 @@
             "ext":"./ext/kuqimv.json"
         },
         {
-            "key":"csp_XBPQ_聚短视频",
+            "key":"MV合集",
+            "name":"MV合集",
+            "type":1,
+            "api":"https://tvbox-mv--leosam2048.repl.co/mv/vod",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"聚短视频",
             "name":"聚短视频",
             "type":3,
             "api":"csp_XBPQ",
