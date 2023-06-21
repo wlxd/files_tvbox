@@ -6,11 +6,11 @@
 
 配置地址选一个输入 [也可以下载本地接口文件](https://g.cyao.ml/tvboxlc.zip)
 
-<https://f.cyao.tk/n.json>
-
 <http://饭太硬.top/tv>
 
 <https://yydsys.top/duo>
+
+<https://f.cyao.tk/n.json>
 
 <http://pandown.pro/tvbox/tvbox.json>
 
