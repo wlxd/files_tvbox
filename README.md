@@ -24,9 +24,7 @@
 
 ## PlutoPlayer [直接下载](https://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
-## 手机端 [PlutoPlayer](https://g.cyao.ml/app/pluto.apk) 或者 [影视](https://g.cyao.ml/app/mobile-java.apk)
-
-[影视TV](https://cyao.lanzouk.com/i3JUe0y6xb1g) [88影视](https://cyao.lanzouk.com/iaDIj0ztphtg) [紫电视频](https://cyao.lanzouk.com/iX1HT0meut2d)
+## 手机端 [PlutoPlayer](https://g.cyao.ml/app/pluto.apk) [影视](https://g.cyao.ml/app/mobile-java.apk) [88影视](https://g.cyao.ml/app/88ys.apk) [紫电视频](https://g.cyao.ml/app/zidian.apk)
 
 ## 盒子软件 [分享迷](https://www.fenxm.com/tv)
 
