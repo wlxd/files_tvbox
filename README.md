@@ -20,11 +20,13 @@
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
-## FongMI [GitHub仓库](https://github.com/FongMi/TV/releases) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
+## 影视TV [GitHub仓库](https://github.com/FongMi/TV/releases) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
 
 ## PlutoPlayer [直接下载](https://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
-## 手机端 [PlutoPlayer](https://g.cyao.ml/app/pluto.apk) 或者 [FongMI](https://g.cyao.ml/app/mobile-java.apk)
+## 手机端 [PlutoPlayer](https://g.cyao.ml/app/pluto.apk) 或者 [影视](https://g.cyao.ml/app/mobile-java.apk)
+
+[影视TV](https://cyao.lanzouk.com/i3JUe0y6xb1g) [88影视](https://cyao.lanzouk.com/iaDIj0ztphtg) [紫电视频](https://cyao.lanzouk.com/iX1HT0meut2d)
 
 ## 盒子软件 [分享迷](https://www.fenxm.com/tv)
 
