@@ -282,16 +282,6 @@
             ]
         },
         {
-            "key":"如如影视",
-            "name":"如如影视",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://cms.maoyingshi.cc/api.php/app/"
-        },
-        {
             "key":"鸭鸭影视",
             "name":"鸭鸭影视",
             "api":"csp_AppYsV2",
@@ -555,16 +545,6 @@
             "name":"jiexi",
             "type":0,
             "url":"https://jx.777jiexi.com/player/?url="
-        },
-        {
-            "name":"ppflv",
-            "type":0,
-            "url":"https://jx.ppflv.com/?url="
-        },
-        {
-            "name":"yemu",
-            "type":0,
-            "url":"https://www.yemu.xyz/?url="
         },
         {
             "name":"nxflv",
