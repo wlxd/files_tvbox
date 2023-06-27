@@ -68,63 +68,13 @@
             "jar":"./jar/fty.jar;md5;CD4C7F811864B0D97885EC48303000A4"
         },
         {
-            "key":"MV合集",
-            "name":"精选MV合集",
+            "key":"MTV合集",
+            "name":"MTV合集",
             "type":1,
             "api":"https://tvbox-mv--leosam2048.repl.co/mv/vod",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key":"哔哩哔哩",
-            "name":"哔哩哔哩(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./ext/Bili.json"
-        },
-        {
-            "key":"相声小品",
-            "name":"相声小品(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"./ext/Bili_xs.json"
-        },
-        {
-            "key":"国粹戏曲",
-            "name":"国粹戏曲(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"./ext/Bili_xq.json"
-        },
-        {
-            "key":"女团热舞",
-            "name":"女团热舞(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"./ext/Bili_rw.json"
-        },
-        {
-            "key":"歌曲MV",
-            "name":"歌曲MV(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"./ext/Bili_gq.json"
         },
         {
             "key":"玩偶哥哥",
@@ -175,6 +125,17 @@
             "filterable":1
         },
         {
+            "key":"一起看啊",
+            "name":"一起看啊",
+            "type":3,
+            "api":"csp_YQKAPP",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://api-aws.11ty.top"
+        },
+        {
             "key":"异界动漫",
             "name":"异界动漫",
             "type":3,
@@ -222,7 +183,7 @@
         },
         {
             "key":"Itv",
-            "name":"爱奇艺",
+            "name":"爱奇艺TV",
             "type":3,
             "api":"csp_Itv",
             "quickSearch":1,
@@ -232,7 +193,7 @@
         },
         {
             "key":"Mtv",
-            "name":"芒果TV",
+            "name":"芒果影视",
             "type":3,
             "api":"csp_Mtv",
             "searchable":1,
@@ -265,9 +226,6 @@
             "name":"迪迪影视",
             "type":3,
             "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
             "ext":"https://api123.adys.app/xgapp.php/v3/"
         },
         {
@@ -286,20 +244,7 @@
             "name":"鸭鸭影视",
             "api":"csp_AppYsV2",
             "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1,
             "ext":"https://yayayaaapp.ynf.icu/api.php/app/"
-        },
-        {
-            "key":"侦探盒子",
-            "name":"侦探盒子",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://big.lfytyl.com/api.php/app/"
         },
         {
             "key":"瑞丰影视",
@@ -313,9 +258,6 @@
             "name":"蛋蛋影视",
             "type":3,
             "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
             "ext":"http://app.mengdandan.com/xgapp.php/v1/"
         },
         {
@@ -323,39 +265,13 @@
             "name":"东方影视",
             "type":3,
             "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
             "ext":"https://www.dfspapp.com/api.php/app/"
-        },
-        {
-            "key":"耐菲影视",
-            "name":"耐菲影视",
-            "api":"csp_AppYsV2",
-            "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://yayayaaapp.ynf.icu/api.php/app/"
-        },
-        {
-            "key":"棍子影视",
-            "name":"棍子影视",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://cms.maoyingshi.cc/api.php/app/"
         },
         {
             "key":"极狐影视",
             "name":"极狐影视",
             "type":3,
             "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
             "ext":"https://www.kuin.one/api.php/app/"
         },
         {
@@ -404,17 +320,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://www.ysgc.vip"
-        },
-        {
-            "key":"一起看啊",
-            "name":"一起看啊",
-            "type":3,
-            "api":"csp_YQKAPP",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://api-aws.11ty.top"
         },
         {
             "key":"苹果影视",
@@ -479,6 +384,56 @@
             "playUrl":"",
             "searchable":1,
             "quickSearch":1
+        },
+        {
+            "key":"哔哩哔哩",
+            "name":"哔哩哔哩(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./ext/Bili.json"
+        },
+        {
+            "key":"相声小品",
+            "name":"相声小品(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"./ext/Bili_xs.json"
+        },
+        {
+            "key":"国粹戏曲",
+            "name":"国粹戏曲(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"./ext/Bili_xq.json"
+        },
+        {
+            "key":"女团热舞",
+            "name":"女团热舞(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"./ext/Bili_rw.json"
+        },
+        {
+            "key":"歌曲MV",
+            "name":"歌曲MV(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"./ext/Bili_gq.json"
         },
         {
             "key":"PanSou",
