@@ -448,14 +448,19 @@
             "url":"https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name":"xmflv1",
-            "type":0,
-            "url":"https://dm.xmflv.com:4433/?url="
-        },
-        {
-            "name":"xmflv2",
+            "name":"xmflv",
             "type":0,
             "url":"https://jx.xmflv.com/?url="
+        },
+        {
+            "name":"m3u8",
+            "type":"0",
+            "url":"https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name":"m3pw",
+            "type":0,
+            "url":"https://jx.m3u8.pw/?url="
         },
         {
             "name":"yemu",
@@ -468,24 +473,14 @@
             "url":"https://jx.777jiexi.com/player/?url="
         },
         {
+            "name":"xyflv",
+            "type":0,
+            "url":"https://jx.xyflv.com/?url="
+        },
+        {
             "name":"ckmov",
             "type":0,
             "url":"https://www.ckmov.vip/api.php?url="
-        },
-        {
-            "name":"m3u8tv",
-            "type":"0",
-            "url":"https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name":"m3u8pw",
-            "type":0,
-            "url":"https://jx.m3u8.pw/?url="
-        },
-        {
-            "name":"aidouer",
-            "type":0,
-            "url":"https://jx.aidouer.net/?url="
         },
         {
             "name":"mtosz",
