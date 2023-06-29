@@ -2,19 +2,39 @@
     "spider":"./jar/Butterfly.jar;md5;AA645EF076AFF7C6B3B3239EE85A87C1",
     "sites":[
         {
-            "key":"酷云七七",
-            "name":"酷云七七",
+            "key":"豆瓣推荐",
+            "name":"豆瓣推荐",
             "type":3,
-            "api":"csp_Kunyu77",
+            "api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+            "ext":"http://v.tvfan.top:88/tvbox/js/drpy.js",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0
+        },
+        {
+            "key":"哔哩哔哩",
+            "name":"哔哩合集",
+            "type":3,
+            "api":"csp_Bili",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":1,
+            "ext":"./ext/bilibili.json"
         },
         {
             "key":"厂长影视",
             "name":"厂长影视",
             "type":3,
             "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"酷云七七",
+            "name":"酷云七七",
+            "type":3,
+            "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -27,15 +47,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0
-        },
-        {
-            "key":"快看资源",
-            "name":"快看资源",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"利奥影视",
@@ -58,6 +69,15 @@
             "ext":"https://www.zxzj.pro/"
         },
         {
+            "key":"快看资源",
+            "name":"快看资源",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"SP2345",
             "name":"2345影视",
             "type":3,
@@ -66,6 +86,16 @@
             "quickSearch":1,
             "filterable":1,
             "jar":"./jar/fty.jar;md5;CD4C7F811864B0D97885EC48303000A4"
+        },
+        {
+            "key":"演唱会",
+            "name":"演唱会",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"./ext/biliych.json"
         },
         {
             "key":"MTV合集",
@@ -365,26 +395,6 @@
             "playUrl":"",
             "searchable":1,
             "quickSearch":1
-        },
-        {
-            "key":"哔哩哔哩",
-            "name":"哔哩哔哩(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./ext/bilibili.json"
-        },
-        {
-            "key":"演唱会",
-            "name":"演唱会(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"./ext/biliych.json"
         },
         {
             "key":"PanSou",
