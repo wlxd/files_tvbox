@@ -2,6 +2,15 @@
     "spider":"./jar/Butterfly.jar;md5;AA645EF076AFF7C6B3B3239EE85A87C1",
     "sites":[
         {
+            "key":"酷云七七",
+            "name":"酷云七七",
+            "type":3,
+            "api":"csp_Kunyu77",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"豆瓣推荐",
             "name":"豆瓣推荐",
             "type":3,
@@ -16,15 +25,6 @@
             "name":"厂长影视",
             "type":3,
             "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"酷云七七",
-            "name":"酷云七七",
-            "type":3,
-            "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -59,15 +59,6 @@
             "ext":"https://www.zxzj.pro/"
         },
         {
-            "key":"快看资源",
-            "name":"快看资源",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"SP2345",
             "name":"2345影视",
             "type":3,
@@ -88,8 +79,8 @@
             "ext":"./ext/bilibili.json"
         },
         {
-            "key":"哔哩演唱会",
-            "name":"哔哩演唱会",
+            "key":"演唱会",
+            "name":"演唱会",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
@@ -102,6 +93,15 @@
             "name":"MTV合集",
             "type":1,
             "api":"https://tvbox-mv--leosam2048.repl.co/mv/vod",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"快看资源",
+            "name":"快看资源",
+            "type":3,
+            "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
