@@ -14,6 +14,8 @@
 
 <http://pandown.pro/tvbox/tvbox.json>
 
+<https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt>
+
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
