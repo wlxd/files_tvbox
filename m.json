@@ -20,15 +20,6 @@
             "filterable":1
         },
         {
-            "key":"低端影视",
-            "name":"低端影视",
-            "type":3,
-            "api":"csp_Ddrk",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
-        },
-        {
             "key":"利奥影视",
             "name":"利奥影视",
             "type":3,
@@ -36,7 +27,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://www.libvio.fun/"
+            "ext":"https://www.libvio.me/"
         },
         {
             "key":"在线之家",
@@ -47,6 +38,25 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://www.zxzj.pro/"
+        },
+        {
+            "key":"低端影视",
+            "name":"低端影视",
+            "type":3,
+            "api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
+        {
+            "key":"利奥影视libvio.fun",
+            "name":"利奥影视",
+            "type":3,
+            "api":"csp_Libvio",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://www.libvio.fun/"
         },
         {
             "key":"SP2345",
