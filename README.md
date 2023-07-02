@@ -4,7 +4,7 @@
 
 ## TVBox [直接下载](https://g.cyao.ml/app/tvbox.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
 
-配置地址选一个输入 [也可以下载本地接口文件](https://g.cyao.ml/tvboxlc.zip)
+配置地址选一个输入
 
 <https://f.cyao.tk/n.json>
 

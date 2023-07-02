@@ -519,7 +519,7 @@
     ],
     "parses":[
         {
-            "name":"Super",
+            "name":"super",
             "type":3,
             "url":"Demo"
         },
@@ -532,62 +532,6 @@
             "name":"xmflv.com",
             "type":0,
             "url":"https://jx.xmflv.com/?url="
-        },
-        {
-            "name":"yingshifan",
-            "type":1,
-            "url":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "imgo",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name":"zhanlangbu",
-            "type":0,
-            "url":"https://jx.zhanlangbu.com/?url=",
-            "ext":{
-                "header":{
-                    "User-Agent":"okhttp/4.1.0"
-                },
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
         },
         {
             "name":"m3u8.tv",
@@ -664,6 +608,35 @@
             }
         },
         {
+            "name":"zhanlangbu",
+            "type":0,
+            "url":"https://jx.zhanlangbu.com/?url=",
+            "ext":{
+                "header":{
+                    "User-Agent":"okhttp/4.1.0"
+                },
+                "flag":[
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
             "name":"fuqizhishi",
             "type":1,
             "url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
@@ -720,6 +693,33 @@
                 "header":{
                     "User-Agent":"Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"
                 }
+            }
+        },
+        {
+            "name":"yingshifan",
+            "type":1,
+            "url":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url=",
+            "ext":{
+                "flag":[
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "imgo",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
             }
         },
         {
