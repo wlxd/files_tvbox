@@ -2,13 +2,15 @@
     "spider":"./jar/Butterfly.jar;md5;AA645EF076AFF7C6B3B3239EE85A87C1",
     "sites":[
         {
-            "key":"酷云七七",
-            "name":"酷云七七",
+            "key":"哔演唱会",
+            "name":"哔演唱会",
             "type":3,
-            "api":"csp_Kunyu77",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "changeable":0,
+            "ext":"./ext/biliych.json"
         },
         {
             "key":"豆瓣推荐",
@@ -90,17 +92,6 @@
             "ext":"./ext/bilibili.json"
         },
         {
-            "key":"演唱会",
-            "name":"演唱会",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "changeable":0,
-            "ext":"./ext/biliych.json"
-        },
-        {
             "key":"MTV合集",
             "name":"MTV合集",
             "type":1,
@@ -109,6 +100,15 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":0
+        },
+        {
+            "key":"酷云七七",
+            "name":"酷云七七",
+            "type":3,
+            "api":"csp_Kunyu77",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"快看资源",
