@@ -11,6 +11,16 @@
             "filterable":1
         },
         {
+            "key":"豆瓣推荐",
+            "name":"豆瓣推荐",
+            "type":3,
+            "api":"https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"https://pan.shangui.cc/f/bA8Qc1/drpy.js"
+        },
+        {
             "key":"厂长影视",
             "name":"厂长影视",
             "type":3,
@@ -123,13 +133,6 @@
             "type":3,
             "api":"csp_AppYsV2",
             "ext":"http://www.miniku.cc/xgapp.php/v2/"
-        },
-        {
-            "key":"东方影视",
-            "name":"东方影视",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "ext":"https://www.dfspapp.com/api.php/app/"
         },
         {
             "key":"蛋蛋影视",
