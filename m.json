@@ -86,6 +86,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
+            "changeable":0,
             "ext":"./ext/bilibili.json"
         },
         {
@@ -96,6 +97,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
+            "changeable":0,
             "ext":"./ext/biliych.json"
         },
         {
@@ -105,7 +107,8 @@
             "api":"https://tvbox-mv--leosam2048.repl.co/mv/vod",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":1,
+            "changeable":0
         },
         {
             "key":"快看资源",
