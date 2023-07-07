@@ -61,14 +61,14 @@
             "filterable":0
         },
         {
-            "key":"利奥影视libvio.fun",
+            "key":"利奥影视libvio.me",
             "name":"利奥影视",
             "type":3,
             "api":"csp_Libvio",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://www.libvio.fun/"
+            "ext":"https://www.libvio.me/"
         },
         {
             "key":"SP2345",
