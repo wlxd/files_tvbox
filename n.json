@@ -52,15 +52,6 @@
             "ext":"https://www.zxzj.pro/"
         },
         {
-            "key":"低端影视",
-            "name":"低端影视",
-            "type":3,
-            "api":"csp_Ddrk",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
-        },
-        {
             "key":"利奥影视libvio.me",
             "name":"利奥影视",
             "type":3,
@@ -120,6 +111,15 @@
             "filterable":1
         },
         {
+            "key":"低端影视",
+            "name":"低端影视",
+            "type":3,
+            "api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
+        {
             "key":"酷影蓝光",
             "name":"酷影蓝光",
             "type":3,
@@ -135,6 +135,7 @@
             "name":"瑞丰影视",
             "type":3,
             "api":"csp_AppYsV2",
+            "changeable":0,
             "ext":"http://www.miniku.cc/xgapp.php/v2/"
         },
         {
@@ -310,7 +311,6 @@
             "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable":1,
             "changeable":1,
-            "playUrl":"json:http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url=",
             "categories":[
                 "国产动漫",
                 "日韩动漫",
@@ -351,7 +351,6 @@
             "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "searchable":1,
             "changeable":1,
-            "playUrl":"json:http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url=",
             "categories":[
                 "国产动漫",
                 "日韩动漫",
@@ -638,9 +637,31 @@
             "url":"https://jx.xmflv.com/?url="
         },
         {
-            "name":"m3u8.tv",
-            "type":"0",
-            "url":"https://jx.m3u8.tv/jiexi/?url="
+            "name":"pandown.pro",
+            "type":1,
+            "url":"http://pandown.pro/app/kkdy.php?url=",
+            "ext":{
+                "flag":[
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
         },
         {
             "name":"m3u8.pw",
@@ -648,68 +669,14 @@
             "url":"https://jx.m3u8.pw/?url="
         },
         {
-            "name":"xuux.icu",
-            "type":1,
-            "url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header":{
-                    "User-Agent":"okhttp/4.1.0"
-                }
-            }
+            "name":"m3u8.tv",
+            "type":"0",
+            "url":"https://jx.m3u8.tv/jiexi/?url="
         },
         {
             "name":"mw0.cc",
             "type":0,
             "url":"https://parse.mw0.cc/?url="
-        },
-        {
-            "name":"g9.pub",
-            "type":1,
-            "url":"http://json.g9.pub:66/?url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "imgo",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header":{
-                    "User-Agent":"okhttp/4.1.0"
-                }
-            }
         },
         {
             "name":"zhanlangbu",
@@ -744,145 +711,6 @@
             "name":"fuqizhishi",
             "type":1,
             "url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
-        },
-        {
-            "name":"key521.cn",
-            "type":1,
-            "url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
-        },
-        {
-            "name":"84jia.com",
-            "type":1,
-            "url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
-        },
-        {
-            "name":"xhww.fun",
-            "type":1,
-            "url":"http://xhww.fun:63/爱肥猫.php?url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua",
-                    "nongmin",
-                    "CL4K",
-                    "xfyun",
-                    "ffm3u8",
-                    "lzm3u8",
-                    "netease",
-                    "pgyer",
-                    "TD",
-                    "qzone",
-                    "FY",
-                    "ppayun",
-                    "Feiyun",
-                    "zhibo"
-                ],
-                "header":{
-                    "User-Agent":"Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"
-                }
-            }
-        },
-        {
-            "name":"yingshifan",
-            "type":1,
-            "url":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "imgo",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name":"pandown.pro",
-            "type":1,
-            "url":"http://pandown.pro/app/kkdy.php?url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "rx",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
-        {
-            "name":"mosangkeji",
-            "type":1,
-            "url":"https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name":"yemu.xyz",
-            "type":"0",
-            "url":"https://www.yemu.xyz/?url="
         },
         {
             "name":"777jiexi",
