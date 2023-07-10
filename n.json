@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;AA645EF076AFF7C6B3B3239EE85A87C1",
+    "spider":"./jar/Butterfly.jar;md5;D54F1DA184C53D09155ED456604A924B",
     "sites":[
         {
             "key":"哔演唱会",
@@ -124,11 +124,7 @@
             "name":"酷影蓝光",
             "type":3,
             "api":"csp_AppYsV2",
-            "ext":"http://ys.realdou.cn/api.php/app/",
-            "categories":[
-                "4K电影",
-                "4K电视剧"
-            ]
+            "ext":"http://ys.realdou.cn/api.php/app/"
         },
         {
             "key":"瑞丰影视",
@@ -151,13 +147,6 @@
             "type":3,
             "api":"csp_AppYsV2",
             "ext":"https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key":"鸭鸭影视",
-            "name":"鸭鸭影视",
-            "api":"csp_AppYsV2",
-            "type":3,
-            "ext":"https://yayayaaapp.ynf.icu/api.php/app/"
         },
         {
             "key":"极狐影视",
@@ -552,15 +541,6 @@
             "name":"双十电影",
             "type":3,
             "api":"csp_Dy1010",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"苹果影视",
-            "name":"苹果影视",
-            "type":3,
-            "api":"csp_LiteApple",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
