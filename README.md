@@ -2,7 +2,7 @@
 
 <https://github.com/o0HalfLife0o/TVBoxOSC/releases>
 
-## TVBox [直接下载](https://g.cyao.ml/app/tvbox.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
+## TVBox [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
 
 配置地址选一个输入
 
@@ -20,15 +20,17 @@
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
+<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
+
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 ## 影视TV [GitHub仓库](https://github.com/FongMi/TV/releases) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
 
-## PlutoPlayer [直接下载](https://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
+## PlutoPlayer [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
-## 手机端 [影视TV](https://g.cyao.ml/app/mobile-java.apk) [蓝奏云密码666](https://cyao.lanzouk.com/b0ehcgwmj)
+## 手机端 [蓝奏云](https://cyao.lanzouk.com/b0ehcgwmj) 密码666
 
 ## 盒子软件 [分享迷](https://www.fenxm.com/tv)
 
@@ -47,6 +49,8 @@
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/m.json>
 
 <https://fastly.jsdelivr.net/gh/cyao2q/files@master/m.json>
+
+<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 <https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
