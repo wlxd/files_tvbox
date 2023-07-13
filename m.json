@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;D54F1DA184C53D09155ED456604A924B",
+    "spider":"./jar/Butterfly.jar;md5;373EDF85DEF4A2A644F8C41364ECAB75",
     "sites":[
         {
             "key":"哔演唱会",
@@ -62,6 +62,15 @@
             "ext":"https://www.libvio.me/"
         },
         {
+            "key":"低端影视",
+            "name":"低端影视",
+            "type":3,
+            "api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
+        {
             "key":"SP2345",
             "name":"2345影视",
             "type":3,
@@ -111,13 +120,44 @@
             "filterable":1
         },
         {
-            "key":"低端影视",
-            "name":"低端影视",
+            "key":"利奥影视JS",
+            "name":"利奥影视JS",
             "type":3,
-            "api":"csp_Ddrk",
+            "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable":1,
             "quickSearch":1,
-            "filterable":0
+            "filterable":1,
+            "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/libvio.js"
+        },
+        {
+            "key":"低端影视JS",
+            "name":"低端影视JS",
+            "type":3,
+            "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/ddys.js"
+        },
+        {
+            "key":"乐猪影视JS",
+            "name":"乐猪影视JS",
+            "type":3,
+            "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/乐猪TV.js"
+        },
+        {
+            "key":"七七影视JS",
+            "name":"七七影视JS",
+            "type":3,
+            "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/77.js"
         },
         {
             "key":"酷影蓝光",
