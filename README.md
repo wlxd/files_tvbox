@@ -20,7 +20,7 @@
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
-<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
+<https://gh.cyao.ml/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
@@ -50,7 +50,7 @@
 
 <https://fastly.jsdelivr.net/gh/cyao2q/files@master/m.json>
 
-<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+<https://gh.cyao.ml/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 <https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
