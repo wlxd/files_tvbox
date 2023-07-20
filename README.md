@@ -34,9 +34,9 @@
 
 ## 盒子软件 [分享迷](https://www.fenxm.com/tv)
 
-[Emotn Browser TV 电视浏览器](https://www.fenxm.com/875.html)
+[Emotn Browser TV 电视浏览器](https://cyao.lanzouk.com/iIo760eynebc)
 
-[PuffinTV浏览器](https://cyao.lanzouy.com/iUuuH08lt6kf) [飞视浏览器](https://cyao.lanzouy.com/irdJv08lt7bc)
+[PuffinTV浏览器](https://cyao.lanzouk.com/i7brN12ztang) [飞视浏览器](https://cyao.lanzouy.com/irdJv08lt7bc)
 
 [儿歌多多](https://www.fenxm.com/613.html) [秒看电视](https://www.fenxm.com/862.html) [神鸟电视](https://www.fenxm.com/908.html)
 
