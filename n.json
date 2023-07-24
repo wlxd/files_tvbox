@@ -16,11 +16,11 @@
             "key":"豆瓣推荐",
             "name":"豆瓣推荐",
             "type":3,
-            "api":"https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
+            "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext":"https://pan.shangui.cc/f/bA8Qc1/drpy.js"
+            "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
         },
         {
             "key":"厂长影视",
