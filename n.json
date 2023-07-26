@@ -230,14 +230,6 @@
             "ext":"https://www.kuin.one/api.php/app/"
         },
         {
-            "key":"酷酷影视",
-            "name":"酷酷影视",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "changeable":0,
-            "ext":"http://cms.realdou.cn/api.php/app/"
-        },
-        {
             "key":"玩偶哥哥",
             "name":"玩偶哥哥",
             "type":3,
