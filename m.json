@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;666CA7D5468412592CD65E5A22376DC6",
+    "spider":"./jar/Butterfly.jar;md5;F4EC316A5FA752EF8082328B9B28E708",
     "sites":[
         {
             "key":"哔演唱会",
@@ -239,15 +239,6 @@
             "filterable":1,
             "changeable":0,
             "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
-        },
-        {
-            "key":"多线影视",
-            "name":"多线影视",
-            "type":3,
-            "api":"csp_DuoX",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"饭团影视",
@@ -597,15 +588,6 @@
             "name":"比特影视",
             "type":3,
             "api":"csp_Bttwoo",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"可乐影视",
-            "name":"可乐影视",
-            "type":3,
-            "api":"csp_Cokemv",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
