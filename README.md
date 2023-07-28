@@ -42,11 +42,9 @@
 
 <https://raw.gitmirror.com/cyao2q/files/master/m.json>
 
-<https://cdn.jsdelivr.net/gh/cyao2q/files@master/m.json>
-
-<https://fastly.jsdelivr.net/gh/cyao2q/files@master/m.json>
-
 <https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+
+<https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 <https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
