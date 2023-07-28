@@ -188,16 +188,6 @@
             "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/nongmin.js"
         },
         {
-            "key":"创艺影视JS",
-            "name":"创艺影视JS",
-            "type":3,
-            "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/chuangyi.js"
-        },
-        {
             "key":"荐片影视JS",
             "name":"荐片影视JS",
             "type":3,
@@ -257,15 +247,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://www.fantuan3.com"
-        },
-        {
-            "key":"探探影视",
-            "name":"探探影视",
-            "type":3,
-            "api":"csp_YT",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"明明影视",
@@ -750,11 +731,6 @@
                     "哔哩"
                 ]
             }
-        },
-        {
-            "name":"fuqizhishi",
-            "type":1,
-            "url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
         },
         {
             "name":"777jiexi",
