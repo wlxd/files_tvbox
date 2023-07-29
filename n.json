@@ -125,17 +125,6 @@
             "filterable":1
         },
         {
-            "key":"厂长资源JS",
-            "name":"厂长资源JS",
-            "type":3,
-            "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/czspp.js"
-        },
-        {
             "key":"利奥影视JS",
             "name":"利奥影视JS",
             "type":3,
