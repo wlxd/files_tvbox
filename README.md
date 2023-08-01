@@ -50,8 +50,6 @@
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
-<https://gh.cyao.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
-
 ## 油猴脚本
 
 [破解VIP会员视频](https://f.cyao.tk/script/crackvideo.user.js)
