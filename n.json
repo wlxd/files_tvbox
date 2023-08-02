@@ -672,11 +672,6 @@
     ],
     "parses":[
         {
-            "name":"juhe",
-            "type":3,
-            "url":"Demo"
-        },
-        {
             "name":"jsonplayer",
             "type":0,
             "url":"https://jx.jsonplayer.com/player/?url="
@@ -687,7 +682,22 @@
             "url":"https://jx.xmflv.com/?url="
         },
         {
-            "name":"pandown.pro",
+            "name":"777jiexi",
+            "type":0,
+            "url":"https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name":"m3u8.pw",
+            "type":0,
+            "url":"https://jx.m3u8.pw/?url="
+        },
+        {
+            "name":"m3u8.tv",
+            "type":"0",
+            "url":"https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name":"pandown",
             "type":1,
             "url":"http://pandown.pro/app/kkdy.php?url=",
             "ext":{
@@ -714,19 +724,31 @@
             }
         },
         {
-            "name":"m3u8.pw",
+            "name":"yemu.xyz",
             "type":0,
-            "url":"https://jx.m3u8.pw/?url="
-        },
-        {
-            "name":"m3u8.tv",
-            "type":"0",
-            "url":"https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name":"mw0.cc",
-            "type":0,
-            "url":"https://parse.mw0.cc/?url="
+            "url":"https://www.yemu.xyz/?url=",
+            "ext":{
+                "flag":[
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
         },
         {
             "name":"zhanlangbu",
@@ -758,9 +780,9 @@
             }
         },
         {
-            "name":"777jiexi",
+            "name":"mw0.cc",
             "type":0,
-            "url":"https://jx.777jiexi.com/player/?url="
+            "url":"https://parse.mw0.cc/?url="
         },
         {
             "name":"xyflv.com",
