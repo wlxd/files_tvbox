@@ -18,9 +18,9 @@
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
-<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
+<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
-<https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+<https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
@@ -40,15 +40,15 @@
 
 # Github加速服务
 
-<https://raw.gitmirror.com/cyao2q/files/master/m.json>
+<https://raw.gitmirror.com/cyao2q/files/master/n.json>
 
-<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
-<https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+<https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
-<https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+<https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
-<https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+<https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 ## 油猴脚本
 
@@ -66,6 +66,6 @@
 
 ## A free CDN for Open Source
 
-<https://g.cyao.workers.dev/>
+<https://gh.cyao.workers.dev/>
 
 <https://www.jsdelivr.com/?docs=gh>
