@@ -16,11 +16,11 @@
             "key":"豆瓣推荐",
             "name":"豆瓣推荐",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/douban.js"
+            "ext":"./js/douban.js"
         },
         {
             "key":"厂长影视",
@@ -115,103 +115,103 @@
             "key":"利奥影视JS",
             "name":"利奥影视JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/libvio.js"
+            "ext":"./js/libvio.js"
         },
         {
             "key":"在线之家JS",
             "name":"在线之家JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/zxzj.js"
+            "ext":"./js/zxzj.js"
         },
         {
             "key":"低端影视JS",
             "name":"低端影视JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "playerType":2,
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/ddys.js"
+            "ext":"./js/ddys.js"
         },
         {
             "key":"七七影视JS",
             "name":"七七影视JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/77.js"
+            "ext":"./js/77.js"
         },
         {
             "key":"贝尔磁力JS",
             "name":"贝尔磁力JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/bear.js"
+            "ext":"./js/bear.js"
         },
         {
             "key":"荐片影视JS",
             "name":"荐片影视JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "playerType":1,
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/荐片.js"
+            "ext":"./js/荐片.js"
         },
         {
             "key":"酷客影院JS",
             "name":"酷客影院JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/莱米.js"
+            "ext":"./js/莱米.js"
         },
         {
             "key":"B站影视JS",
             "name":"B站影视JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/bzys.js"
+            "ext":"./js/bzys.js"
         },
         {
             "key":"电影先生JS",
             "name":"电影先生JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/电影先生.js"
+            "ext":"./js/电影先生.js"
         },
         {
             "key":"农民影视JS",
             "name":"农民影视JS",
             "type":3,
-            "api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+            "api":"./js/drpymin2.js",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://jihulab.com/duomv/duox/-/raw/main/js/nongmin.js"
+            "ext":"./js/nongmin.js"
         },
         {
             "key":"瑞丰影视",

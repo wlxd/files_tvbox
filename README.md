@@ -24,7 +24,7 @@
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
-## 影视TV [GitHub仓库](https://github.com/FongMi/TV/releases) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
+## 影视TV [GitHub仓库](https://github.com/FongMi/TV) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
 
 ## PlutoPlayer [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
