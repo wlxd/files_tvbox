@@ -2,25 +2,13 @@
     "spider":"./jar/Butterfly.jar;md5;C80207EDEBBE5019A688FD2EB653E005",
     "sites":[
         {
-            "key":"哔演唱会",
-            "name":"哔演唱会",
+            "key":"豆豆推荐",
+            "name":"豆豆推荐",
             "type":3,
-            "api":"csp_Bili",
+            "api":"csp_DouDou",
             "searchable":0,
             "quickSearch":0,
-            "filterable":1,
-            "changeable":0,
-            "ext":"./ext/biliych.json"
-        },
-        {
-            "key":"豆瓣推荐",
-            "name":"豆瓣推荐",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"./js/douban.js"
+            "filterable":0
         },
         {
             "key":"厂长影视",
@@ -73,6 +61,17 @@
             "jar":"./jar/SP2345.jar;md5;868307785B432C11D86C02DD38FB4CDA"
         },
         {
+            "key":"哔演唱会",
+            "name":"哔演唱会",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "changeable":0,
+            "ext":"./ext/biliych.json"
+        },
+        {
             "key":"哔哩哔哩",
             "name":"哔哩合集",
             "type":3,
@@ -110,6 +109,26 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"豆瓣推荐JS",
+            "name":"豆瓣推荐JS",
+            "type":3,
+            "api":"./js/drpymin2.js",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"./js/douban.js"
+        },
+        {
+            "key":"利奥影视JS",
+            "name":"利奥影视JS",
+            "type":3,
+            "api":"./js/drpymin2.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./js/libvio.js"
         },
         {
             "key":"在线之家JS",
@@ -194,12 +213,37 @@
             "ext":"./js/nongmin.js"
         },
         {
+            "key":"玩偶哥哥",
+            "name":"玩偶哥哥",
+            "type":3,
+            "api":"csp_WoGG",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0,
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+        },
+        {
             "key":"瑞丰影视",
             "name":"瑞丰影视",
             "type":3,
             "api":"csp_AppYsV2",
             "changeable":0,
             "ext":"http://www.miniku.cc/xgapp.php/v2/"
+        },
+        {
+            "key":"极狐影视",
+            "name":"极狐影视",
+            "type":3,
+            "api":"csp_AppYsV2",
+            "ext":"https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key":"哈喽影视",
+            "name":"哈喽影视",
+            "type":3,
+            "api":"csp_AppYsV2",
+            "ext":"http://www.miniku.cc/xgapp.php/v1/"
         },
         {
             "key":"蛋蛋影视",
@@ -214,24 +258,6 @@
             "type":3,
             "api":"csp_AppYsV2",
             "ext":"https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key":"极狐影视",
-            "name":"极狐影视",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "ext":"https://www.kuin.one/api.php/app/"
-        },
-        {
-            "key":"玩偶哥哥",
-            "name":"玩偶哥哥",
-            "type":3,
-            "api":"csp_WoGG",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
         },
         {
             "key":"饭团影视",
@@ -674,6 +700,11 @@
             "name":"m3u8.tv",
             "type":"0",
             "url":"https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name":"wogg",
+            "type":1,
+            "url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
             "name":"pandown",
