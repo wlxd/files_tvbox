@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;C80207EDEBBE5019A688FD2EB653E005",
+    "spider":"./jar/Butterfly.jar;md5;4A0DC0AE860C90D0001F1FC0FAE230F7",
     "sites":[
         {
             "key":"豆豆推荐",
@@ -97,7 +97,7 @@
             "key":"MTV合集",
             "name":"MTV合集",
             "type":1,
-            "api":"https://tvbox-mv--leosam2048.repl.co/mv/vod",
+            "api":"https://mv.cyao.repl.co/mv/vod",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
