@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;4A0DC0AE860C90D0001F1FC0FAE230F7",
+    "spider":"./jar/Butterfly.jar;md5;51F99BDB067984F87EE16DC026DA79D2",
     "sites":[
         {
             "key":"豆豆推荐",
@@ -605,7 +605,7 @@
             "quickSearch":1,
             "filterable":0,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key":"七夜",
@@ -616,7 +616,7 @@
             "quickSearch":1,
             "filterable":0,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key":"UpYun",
@@ -627,7 +627,7 @@
             "quickSearch":1,
             "filterable":0,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key":"Zhaozy",
@@ -638,7 +638,7 @@
             "quickSearch":1,
             "filterable":0,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
         }
     ],
     "parses":[
