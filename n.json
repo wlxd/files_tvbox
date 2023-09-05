@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;51F99BDB067984F87EE16DC026DA79D2",
+    "spider":"./jar/Butterfly.jar;md5;F20B74480C058B1FF6236601F92D65A8",
     "sites":[
         {
             "key":"豆豆推荐",
@@ -19,7 +19,7 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/"
         },
         {
             "key":"利奥影视",
@@ -251,16 +251,6 @@
             "type":3,
             "api":"csp_AppYsV2",
             "ext":"https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key":"饭团影视",
-            "name":"饭团影视",
-            "type":3,
-            "api":"csp_Fantuan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://www.fantuan3.com"
         },
         {
             "key":"明明影视",
