@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;533F279C487B5BD34CF4947A7AFBEE34",
+    "spider":"./jar/Butterfly.jar;md5;1283F666A6CAD6C58530D7F2D5EEF333",
     "sites":[
         {
             "key":"豆豆推荐",
@@ -80,7 +80,7 @@
             "quickSearch":0,
             "filterable":1,
             "changeable":0,
-            "ext":"./ext/biliych.json"
+            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"
         },
         {
             "key":"哔哩哔哩",
@@ -91,7 +91,7 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":0,
-            "ext":"./ext/bilibili.json"
+            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
         },
         {
             "key":"MTV合集",
@@ -120,6 +120,55 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"毛驴影视",
+            "name":"毛驴影视",
+            "type":3,
+            "api":"csp_MLYS",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"https://www.maolvys.com/"
+        },
+        {
+            "key":"忍者影视",
+            "name":"忍者影视",
+            "type":3,
+            "api":"csp_MYYS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://rzys.xyz"
+        },
+        {
+            "key":"比特影视",
+            "name":"比特影视",
+            "type":3,
+            "api":"csp_Bttwoo",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"SP360",
+            "name":"三三影视",
+            "type":3,
+            "api":"csp_SP33",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0
+        },
+        {
+            "key":"农民影视",
+            "name":"农民影视",
+            "type":3,
+            "api":"csp_Nmys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
         },
         {
             "key":"豆瓣推荐JS",
@@ -546,26 +595,6 @@
             ]
         },
         {
-            "key":"SP360",
-            "name":"三三影视",
-            "type":3,
-            "api":"csp_SP33",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0
-        },
-        {
-            "key":"农民影视",
-            "name":"农民影视",
-            "type":3,
-            "api":"csp_Nmys",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./ext/nmys.json"
-        },
-        {
             "key":"PanSou",
             "name":"盘搜┃搜索",
             "type":3,
@@ -612,6 +641,43 @@
     ],
     "parses":[
         {
+            "name":"wogg",
+            "type":1,
+            "url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="
+        },
+        {
+            "name":"json",
+            "type":1,
+            "url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+        },
+        {
+            "name":"pandown",
+            "type":1,
+            "url":"http://pandown.pro/app/kkdy.php?url=",
+            "ext":{
+                "flag":[
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
             "name":"jsonplayer",
             "type":0,
             "url":"https://jx.jsonplayer.com/player/?url="
@@ -649,7 +715,7 @@
             }
         },
         {
-            "name":"777jiexi",
+            "name":"jiexi.com",
             "type":0,
             "url":"https://jx.777jiexi.com/player/?url="
         },
@@ -662,38 +728,6 @@
             "name":"m3u8.tv",
             "type":"0",
             "url":"https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name":"wogg",
-            "type":1,
-            "url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="
-        },
-        {
-            "name":"pandown",
-            "type":1,
-            "url":"http://pandown.pro/app/kkdy.php?url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "rx",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
         },
         {
             "name":"zhanlangbu",
