@@ -612,11 +612,6 @@
     ],
     "parses":[
         {
-            "name":"wogg",
-            "type":1,
-            "url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="
-        },
-        {
             "name":"pandown",
             "type":1,
             "url":"http://pandown.pro/app/kkdy.php?url=",
@@ -647,6 +642,11 @@
             "name":"jsonplayer",
             "type":0,
             "url":"https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name":"fantaiying",
+            "type":1,
+            "url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
             "name":"xmflv.com",
@@ -691,11 +691,6 @@
             "url":"https://jx.m3u8.pw/?url="
         },
         {
-            "name":"m3u8.tv",
-            "type":"0",
-            "url":"https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
             "name":"zhanlangbu",
             "type":0,
             "url":"https://jx.zhanlangbu.com/?url=",
@@ -723,21 +718,6 @@
                     "哔哩"
                 ]
             }
-        },
-        {
-            "name":"mw0.cc",
-            "type":0,
-            "url":"https://parse.mw0.cc/?url="
-        },
-        {
-            "name":"xyflv.com",
-            "type":0,
-            "url":"https://jx.xyflv.com/?url="
-        },
-        {
-            "name":"ckmov.vip",
-            "type":0,
-            "url":"https://www.ckmov.vip/api.php?url="
         }
     ],
     "recommend":[
