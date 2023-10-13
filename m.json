@@ -29,6 +29,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
+            "changeable":0,
             "ext":"https://www.libvio.pro/"
         },
         {
@@ -39,6 +40,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
+            "changeable":0,
             "ext":"https://www.zxzj.pro/"
         },
         {
@@ -50,6 +52,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
+            "changeable":0,
             "ext":"https://www.cz01.pro/"
         },
         {
@@ -60,7 +63,8 @@
             "playerType":2,
             "searchable":1,
             "quickSearch":1,
-            "filterable":0
+            "filterable":0,
+            "changeable":0
         },
         {
             "key":"SP2345",
@@ -111,7 +115,8 @@
             "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":1,
+            "changeable":0
         },
         {
             "key":"快看资源",
@@ -120,7 +125,8 @@
             "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":1,
+            "changeable":0
         },
         {
             "key":"一起看啊",
