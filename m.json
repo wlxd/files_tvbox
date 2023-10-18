@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;E60EE56ECB22EA3575471E7DD9E0C338",
+    "spider":"./jar/Butterfly.jar;md5;F6EAC2C1831CCD0215892F30C306958F",
     "sites":[
         {
             "key":"豆豆推荐",
@@ -135,7 +135,7 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":0,
-            "ext":"https://www.cz0101.com/"
+            "ext":"https://cz01.pw/"
         },
         {
             "key":"Mino",
@@ -332,13 +332,6 @@
             "type":3,
             "api":"csp_AppYsV2",
             "ext":"https://www.kuin.one/api.php/app/"
-        },
-        {
-            "key":"蛋蛋影视",
-            "name":"蛋蛋影视",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "ext":"http://app.mengdandan.com/xgapp.php/v1/"
         },
         {
             "key":"迪迪影视",
