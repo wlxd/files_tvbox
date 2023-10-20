@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;F6EAC2C1831CCD0215892F30C306958F",
+    "spider":"./jar/Butterfly.jar;md5;5BB14E6D9CCFAC7135FE1573382355CC",
     "sites":[
         {
             "key":"豆豆推荐",
@@ -135,7 +135,7 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":0,
-            "ext":"https://cz01.pw/"
+            "ext":"https://www.czz9.com/"
         },
         {
             "key":"Mino",
