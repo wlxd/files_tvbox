@@ -44,18 +44,6 @@
             "ext":"https://www.zxzj.pro/"
         },
         {
-            "key":"厂长影视",
-            "name":"厂长影视",
-            "type":3,
-            "api":"csp_Czsapp",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0,
-            "ext":"https://www.czz9.com/"
-        },
-        {
             "key":"一起看啊",
             "name":"一起看啊",
             "type":3,
@@ -136,6 +124,18 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":0
+        },
+        {
+            "key":"厂长影视",
+            "name":"厂长影视",
+            "type":3,
+            "api":"csp_Czsapp",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0,
+            "ext":"https://www.czz9.com/"
         },
         {
             "key":"Mino",
