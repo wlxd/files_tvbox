@@ -142,7 +142,7 @@
             "quickSearch":0,
             "filterable":1,
             "changeable":0,
-            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"
+            "ext":"https://fanty.run.goorm.site/ext/biliych.json"
         },
         {
             "key":"哔哩哔哩",
@@ -153,7 +153,7 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":0,
-            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
+            "ext":"https://fanty.run.goorm.site/ext/bilibili.json"
         },
         {
             "key":"MTV合集",
@@ -234,7 +234,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+            "ext":"https://fanty.run.goorm.site/ext/nmys.json"
         },
         {
             "key":"豆瓣推荐JS",
