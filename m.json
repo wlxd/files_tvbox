@@ -182,7 +182,7 @@
             "key":"MTV合集",
             "name":"MTV合集",
             "type":1,
-            "api":"https://mv.cyao.repl.co/mv/vod",
+            "api":"https://mv.cyao.tk/mv/vod",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
@@ -723,7 +723,7 @@
             "request":{
                 "method":"GET",
                 "url":{
-                    "raw":"https://douban.cyao.repl.co/search?q={name}&limit=1"
+                    "raw":"https://douban.cyao.tk/search?q={name}&limit=1"
                 }
             },
             "response":{
