@@ -6,11 +6,11 @@
 
 配置地址选一个输入
 
-<https://f.cyao.tk/n.json>
-
 <http://肥猫.live>
 
 <http://饭太硬.top/tv>
+
+<https://f.cyao.tk/n.json>
 
 <https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt>
 
