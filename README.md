@@ -8,9 +8,9 @@
 
 <https://f.cyao.tk/n.json>
 
-<http://饭太硬.top/tv>
+<http://肥猫.live>
 
-<https://yydsys.top/duo>
+<http://饭太硬.top/tv>
 
 <https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt>
 
