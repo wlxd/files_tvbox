@@ -16,8 +16,6 @@
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
-<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
-
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 ## 影视TV [GitHub仓库](https://github.com/FongMi/TV) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
@@ -37,8 +35,6 @@
 # Github加速服务
 
 <https://raw.gitmirror.com/cyao2q/files/master/n.json>
-
-<https://gh.cyao.tk/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
