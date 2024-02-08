@@ -10,7 +10,7 @@
 
 <http://饭太硬.top/tv>
 
-<https://f.cyao.tk/n.json>
+<https://cyao.eu.org/files/n.json>
 
 <https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt>
 
@@ -42,11 +42,11 @@
 
 ## 油猴脚本
 
-[破解VIP会员视频](https://f.cyao.tk/script/crackvideo.user.js)
+[破解VIP会员视频](https://cyao.eu.org/files/script/crackvideo.user.js)
 
 ## 阅读APP自用书源
 
-<https://cyao.tk/yuedu/>
+<https://cyao.eu.org/yuedu/>
 
 ## 广告过滤规则
 
