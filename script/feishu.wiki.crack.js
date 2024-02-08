@@ -5,7 +5,7 @@
 // @description  让飞书文档不受权限限制，可以复制任意内容，可以打开右键菜单(复制下载图片)
 // @author       漠星曜
 // @license      GPL License
-// @downloadURL  https://f.cyao.tk/script/feishu.wiki.crack.js
+// @downloadURL  https://cyao.eu.org/files/script/feishu.wiki.crack.js
 // @namespace    http://tampermonkey.net/
 // @match        *://*.feishu.cn/*
 // @icon         https://sf3-scmcdn2-cn.feishucdn.com/ccm/pc/web/resource/bear/src/common/assets/favicons/icon_file_doc_nor-32x32.8cb0fef16653221e74b9.png
