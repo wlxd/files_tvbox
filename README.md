@@ -18,7 +18,7 @@
 
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
-## 影视TV [GitHub仓库](https://github.com/FongMi/TV) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
+## 影视TV [GitHub仓库](https://github.com/FongMi/Release) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
 
 ## PlutoPlayer [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
