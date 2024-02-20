@@ -31,7 +31,7 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":0,
-            "ext":"https://www.libvio.pw/"
+            "ext":"https://www.libvio.vip/"
         },
         {
             "key":"低端影视",
@@ -158,35 +158,6 @@
             "changeable":0
         },
         {
-            "key":"比特影视",
-            "name":"比特影视",
-            "type":3,
-            "api":"csp_Bttwoo",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"SP360",
-            "name":"三三影视",
-            "type":3,
-            "api":"csp_SP33",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0
-        },
-        {
-            "key":"农民影视",
-            "name":"农民影视",
-            "type":3,
-            "api":"csp_Nmys",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
-        },
-        {
             "key":"豆瓣推荐JS",
             "name":"豆瓣推荐JS",
             "type":3,
@@ -267,6 +238,35 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"./js/nongmin.js"
+        },
+        {
+            "key":"比特影视",
+            "name":"比特影视",
+            "type":3,
+            "api":"csp_Bttwoo",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"SP360",
+            "name":"三三影视",
+            "type":3,
+            "api":"csp_SP33",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0
+        },
+        {
+            "key":"农民影视",
+            "name":"农民影视",
+            "type":3,
+            "api":"csp_Nmys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
         },
         {
             "key":"酷奇音乐",
