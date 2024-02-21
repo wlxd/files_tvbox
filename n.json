@@ -635,7 +635,7 @@
             "request":{
                 "method":"GET",
                 "url":{
-                    "raw":"https://douban.cyao.tk/search?q={name}&limit=1"
+                    "raw":"https://open-yaolaikeji.koyeb.app/api/douban/search?q={name}&limit=1"
                 }
             },
             "response":{
