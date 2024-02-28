@@ -38,7 +38,7 @@
 
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
-<https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
+<https://mirror.ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 ## 油猴脚本
 
