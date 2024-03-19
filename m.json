@@ -1,325 +1,314 @@
 {
-    "spider":"./jar/Butterfly.jar;md5;6695B4FE705A1EEDCAE352ABE5412640",
-    "sites":[
+    "spider": "./jar/Butterfly.jar;md5;6695B4FE705A1EEDCAE352ABE5412640",
+    "sites": [
         {
-            "key":"豆豆推荐",
-            "name":"豆豆推荐",
-            "type":3,
-            "api":"csp_DouDou",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0
+            "key": "豆豆推荐",
+            "name": "豆豆推荐",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
-            "key":"厂长影视",
-            "name":"厂长影视",
-            "type":3,
-            "api":"csp_Czsapp",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0,
-            "ext":"https://www.czzy88.com/"
+            "key": "厂长影视",
+            "name": "厂长影视",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://www.czzy88.com/"
         },
         {
-            "key":"利奥影视",
-            "name":"利奥影视",
-            "type":3,
-            "api":"csp_Libvio",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0,
-            "ext":"https://www.libvio.vip/"
+            "key": "低端影视",
+            "name": "低端影视",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0
         },
         {
-            "key":"低端影视",
-            "name":"低端影视",
-            "type":3,
-            "api":"csp_Ddrk",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "changeable":0
+            "key": "南瓜",
+            "name": "南瓜影视",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
-            "key":"南瓜",
-            "name":"南瓜影视",
-            "type":3,
-            "api":"csp_NanGua",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1
+            "key": "萌米",
+            "name": "萌米影视",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
         },
         {
-            "key":"萌米",
-            "name":"萌米影视",
-            "type":3,
-            "api":"csp_AppMao",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+            "key": "毛驴影视",
+            "name": "毛驴影视",
+            "type": 3,
+            "api": "csp_MLYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/"
         },
         {
-            "key":"毛驴影视",
-            "name":"毛驴影视",
-            "type":3,
-            "api":"csp_MLYS",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"https://www.maolvys.com/"
+            "key": "蚂蚁影视",
+            "name": "蚂蚁影视",
+            "type": 3,
+            "api": "csp_MYYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://rzys.xyz"
         },
         {
-            "key":"蚂蚁影视",
-            "name":"蚂蚁影视",
-            "type":3,
-            "api":"csp_MYYS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://rzys.xyz"
+            "key": "一起看啊",
+            "name": "一起看啊",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
-            "key":"一起看啊",
-            "name":"一起看啊",
-            "type":3,
-            "api":"csp_YQKan",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1
+            "key": "玩偶哥哥",
+            "name": "玩偶哥哥",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
         },
         {
-            "key":"玩偶哥哥",
-            "name":"玩偶哥哥",
-            "type":3,
-            "api":"csp_WoGG",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+            "key": "快看资源",
+            "name": "快看资源",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "jar": "./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"
         },
         {
-            "key":"快看资源",
-            "name":"快看资源",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0,
-            "jar":"./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"
+            "key": "SP2345",
+            "name": "2345影视",
+            "type": 3,
+            "api": "csp_SP2345",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"
         },
         {
-            "key":"SP2345",
-            "name":"2345影视",
-            "type":3,
-            "api":"csp_SP2345",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar":"./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"
+            "key": "哔哩歌曲",
+            "name": "哔哩歌曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
         },
         {
-            "key":"哔哩歌曲",
-            "name":"哔哩歌曲",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "changeable":0,
-            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
+            "key": "哔哩哔哩",
+            "name": "哔哩合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
         },
         {
-            "key":"哔哩哔哩",
-            "name":"哔哩合集",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0,
-            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+            "key": "MTV合集",
+            "name": "MTV合集",
+            "type": 1,
+            "api": "https://tvbox-mv-xianlaihuyu.koyeb.app/mv/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
         {
-            "key":"MTV合集",
-            "name":"MTV合集",
-            "type":1,
-            "api":"https://tvbox-mv-xianlaihuyu.koyeb.app/mv/vod",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0
+            "key": "豆瓣推荐JS",
+            "name": "豆瓣推荐JS",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./js/douban.js"
         },
         {
-            "key":"豆瓣推荐JS",
-            "name":"豆瓣推荐JS",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"./js/douban.js"
+            "key": "利奥影视JS",
+            "name": "利奥影视JS",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/libvio.js"
         },
         {
-            "key":"利奥影视JS",
-            "name":"利奥影视JS",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./js/libvio.js"
+            "key": "低端影视JS",
+            "name": "低端影视JS",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/ddys.js"
         },
         {
-            "key":"低端影视JS",
-            "name":"低端影视JS",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./js/ddys.js"
+            "key": "七七影视JS",
+            "name": "七七影视JS",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/77.js"
         },
         {
-            "key":"七七影视JS",
-            "name":"七七影视JS",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./js/77.js"
+            "key": "荐片影视JS",
+            "name": "荐片影视JS",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/荐片.js"
         },
         {
-            "key":"荐片影视JS",
-            "name":"荐片影视JS",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./js/荐片.js"
+            "key": "B站影视JS",
+            "name": "B站影视JS",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/bzys.js"
         },
         {
-            "key":"B站影视JS",
-            "name":"B站影视JS",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./js/bzys.js"
+            "key": "电影先生JS",
+            "name": "电影先生JS",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/电影先生.js"
         },
         {
-            "key":"电影先生JS",
-            "name":"电影先生JS",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./js/电影先生.js"
+            "key": "农民影视JS",
+            "name": "农民影视JS",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/nongmin.js"
         },
         {
-            "key":"农民影视JS",
-            "name":"农民影视JS",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./js/nongmin.js"
+            "key": "比特影视",
+            "name": "比特影视",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "key":"比特影视",
-            "name":"比特影视",
-            "type":3,
-            "api":"csp_Bttwoo",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "key": "SP360",
+            "name": "三三影视",
+            "type": 3,
+            "api": "csp_SP33",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
         {
-            "key":"SP360",
-            "name":"三三影视",
-            "type":3,
-            "api":"csp_SP33",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0
+            "key": "农民影视",
+            "name": "农民影视",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
         },
         {
-            "key":"农民影视",
-            "name":"农民影视",
-            "type":3,
-            "api":"csp_Nmys",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+            "key": "酷奇音乐",
+            "name": "酷奇音乐",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/kuqimv.js"
         },
         {
-            "key":"酷奇音乐",
-            "name":"酷奇音乐",
-            "type":3,
-            "api":"./js/drpymin2.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./js/kuqimv.js"
+            "key": "极狐影视",
+            "name": "极狐影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://www.kuin.one/api.php/app/"
         },
         {
-            "key":"极狐影视",
-            "name":"极狐影视",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "ext":"https://www.kuin.one/api.php/app/"
+            "key": "异界动漫",
+            "name": "异界动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "key":"异界动漫",
-            "name":"异界动漫",
-            "type":3,
-            "api":"csp_Ysj",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "key": "日本动漫",
+            "name": "日本动漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "key":"日本动漫",
-            "name":"日本动漫",
-            "type":3,
-            "api":"csp_Anime1",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "key": "动漫巴士",
+            "name": "动漫巴士",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "key":"动漫巴士",
-            "name":"动漫巴士",
-            "type":3,
-            "api":"csp_Dm84",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"量子资源",
-            "name":"量子资源",
-            "type":0,
-            "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "searchable":1,
-            "changeable":1,
-            "categories":[
+            "key": "量子资源",
+            "name": "量子资源",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
                 "国产动漫",
                 "日韩动漫",
                 "国产剧",
@@ -353,13 +342,13 @@
             ]
         },
         {
-            "key":"非凡影视",
-            "name":"非凡影视",
-            "type":0,
-            "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-            "searchable":1,
-            "changeable":1,
-            "categories":[
+            "key": "非凡影视",
+            "name": "非凡影视",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
                 "国产动漫",
                 "日韩动漫",
                 "国产剧",
@@ -389,14 +378,14 @@
             ]
         },
         {
-            "key":"快车资源",
-            "name":"快车资源",
-            "type":1,
-            "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
-            "playUrl":"",
-            "searchable":1,
-            "quickSearch":1,
-            "categories":[
+            "key": "快车资源",
+            "name": "快车资源",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
                 "动作片",
                 "喜剧片",
                 "爱情片",
@@ -418,14 +407,14 @@
             ]
         },
         {
-            "key":"无尽资源",
-            "name":"无尽资源",
-            "type":1,
-            "api":"https://api.wujinapi.me/api.php/provide/vod/",
-            "playUrl":"",
-            "searchable":1,
-            "quickSearch":1,
-            "categories":[
+            "key": "无尽资源",
+            "name": "无尽资源",
+            "type": 1,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
                 "动作片",
                 "喜剧片",
                 "爱情片",
@@ -458,12 +447,12 @@
             ]
         },
         {
-            "key":"暴风资源",
-            "name":"暴风资源",
-            "type":1,
-            "api":"https://bfzyapi.com/api.php/provide/vod/?ac=list",
-            "changeable":0,
-            "categories":[
+            "key": "暴风资源",
+            "name": "暴风资源",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "changeable": 0,
+            "categories": [
                 "国产剧",
                 "国产动漫",
                 "大陆综艺",
@@ -480,14 +469,14 @@
             ]
         },
         {
-            "key":"新浪资源",
-            "name":"新浪资源",
-            "type":1,
-            "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-            "playUrl":"",
-            "searchable":1,
-            "quickSearch":1,
-            "categories":[
+            "key": "新浪资源",
+            "name": "新浪资源",
+            "type": 1,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
                 "纪录片",
                 "动作片",
                 "爱情片",
@@ -508,168 +497,158 @@
             ]
         },
         {
-            "key":"PanSou",
-            "name":"盘搜┃搜索",
-            "type":3,
-            "api":"csp_PanSou",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "key": "PanSou",
+            "name": "盘搜┃搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
-            "key":"七夜",
-            "name":"七夜┃搜索",
-            "type":3,
-            "api":"csp_Dovx",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "key": "七夜",
+            "name": "七夜┃搜索",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
-            "key":"UpYun",
-            "name":"云搜┃搜索",
-            "type":3,
-            "api":"csp_UpYun",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "key": "UpYun",
+            "name": "云搜┃搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
-            "key":"Zhaozy",
-            "name":"找资源┃搜索",
-            "type":3,
-            "api":"csp_Zhaozy",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
+            "key": "Zhaozy",
+            "name": "找资源┃搜索",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
         }
     ],
-    "parses":[
+    "parses": [
         {
-            "name":"jsonplayer",
-            "type":0,
-            "url":"https://jx.jsonplayer.com/player/?url="
+            "name": "xmflv",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name":"pandown",
-            "type":1,
-            "url":"http://pandown.pro/app/kkdy.php?url="
+            "name": "player",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name":"fantaiying",
-            "type":1,
-            "url":"http://api.888484.xyz/jiexi/米太硬.php?url="
+            "name": "ftty",
+            "type": 1,
+            "url": "http://api.888484.xyz/神秘哥哥/super.php?v="
         },
         {
-            "name":"xmflv.com",
-            "type":0,
-            "url":"https://jx.xmflv.com/?url="
+            "name": "yemu",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url="
         },
         {
-            "name":"yemu.xyz",
-            "type":0,
-            "url":"https://www.yemu.xyz/?url="
+            "name": "jiexi",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name":"jiexi.com",
-            "type":0,
-            "url":"https://jx.777jiexi.com/player/?url="
-        },
-        {
-            "name":"m3u8.pw",
-            "type":0,
-            "url":"https://jx.m3u8.pw/?url="
-        },
-        {
-            "name":"tyun77.cn",
-            "type":1,
-            "url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url="
+            "name": "m3u8",
+            "type": 0,
+            "url": "https://jx.m3u8.pw/?url="
         }
     ],
-    "recommend":[
+    "recommend": [
         {
-            "name":"豆瓣推荐",
-            "request":{
-                "method":"GET",
-                "header":[
+            "name": "豆瓣推荐",
+            "request": {
+                "method": "GET",
+                "header": [
                     {
-                        "key":"Referer",
-                        "value":"https://movie.douban.com/"
+                        "key": "Referer",
+                        "value": "https://movie.douban.com/"
                     }
                 ],
-                "url":{
-                    "raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2023"
+                "url": {
+                    "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2023"
                 }
             },
-            "response":{
-                "result":"$.data",
-                "data":[
+            "response": {
+                "result": "$.data",
+                "data": [
                     {
-                        "key":"name",
-                        "value":"title"
+                        "key": "name",
+                        "value": "title"
                     },
                     {
-                        "key":"note",
-                        "value":"rate"
+                        "key": "note",
+                        "value": "rate"
                     },
                     {
-                        "key":"pic",
-                        "value":"cover"
+                        "key": "pic",
+                        "value": "cover"
                     }
                 ]
             },
-            "expires":"86400"
+            "expires": "86400"
         }
     ],
-    "rating":[
+    "rating": [
         {
-            "name":"豆瓣评分",
-            "request":{
-                "method":"GET",
-                "url":{
-                    "raw":"https://open-yaolaikeji.koyeb.app/api/douban/search?q={name}&limit=1"
+            "name": "豆瓣评分",
+            "request": {
+                "method": "GET",
+                "url": {
+                    "raw": "https://open-yaolaikeji.koyeb.app/api/douban/search?q={name}&limit=1"
                 }
             },
-            "response":{
-                "result":"this",
-                "data":[
+            "response": {
+                "result": "this",
+                "data": [
                     {
-                        "key":"rating",
-                        "value":"rating"
+                        "key": "rating",
+                        "value": "rating"
                     }
                 ]
             }
         }
     ],
-    "association":[
+    "association": [
         {
-            "name":"iqiyi",
-            "request":{
-                "method":"GET",
-                "url":{
-                    "raw":"https://suggest.video.iqiyi.com/?if=mobile&key={query}"
+            "name": "iqiyi",
+            "request": {
+                "method": "GET",
+                "url": {
+                    "raw": "https://suggest.video.iqiyi.com/?if=mobile&key={query}"
                 }
             },
-            "response":{
-                "result":"$.data",
-                "data":[
+            "response": {
+                "result": "$.data",
+                "data": [
                     {
-                        "key":"keyword",
-                        "value":"name"
+                        "key": "keyword",
+                        "value": "name"
                     }
                 ]
             }
         }
     ],
-    "flags":[
+    "flags": [
         "youku",
         "qq",
         "iqiyi",
@@ -682,169 +661,169 @@
         "wasu",
         "bilibili"
     ],
-    "ijk":[
+    "ijk": [
         {
-            "group":"硬解码",
-            "options":[
+            "group": "硬解码",
+            "options": [
                 {
-                    "category":4,
-                    "name":"opensles",
-                    "value":"0"
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
                 },
                 {
-                    "category":4,
-                    "name":"overlay-format",
-                    "value":"842225234"
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
                 },
                 {
-                    "category":4,
-                    "name":"framedrop",
-                    "value":"1"
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
                 },
                 {
-                    "category":4,
-                    "name":"soundtouch",
-                    "value":"1"
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
                 },
                 {
-                    "category":4,
-                    "name":"start-on-prepared",
-                    "value":"1"
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
                 },
                 {
-                    "category":1,
-                    "name":"http-detect-range-support",
-                    "value":"0"
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
                 },
                 {
-                    "category":1,
-                    "name":"fflags",
-                    "value":"fastseek"
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
                 },
                 {
-                    "category":2,
-                    "name":"skip_loop_filter",
-                    "value":"48"
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
                 },
                 {
-                    "category":4,
-                    "name":"reconnect",
-                    "value":"1"
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
                 },
                 {
-                    "category":4,
-                    "name":"max-buffer-size",
-                    "value":"5242880"
+                    "category": 4,
+                    "name": "max-buffer-size",
+                    "value": "5242880"
                 },
                 {
-                    "category":4,
-                    "name":"enable-accurate-seek",
-                    "value":"0"
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
                 },
                 {
-                    "category":4,
-                    "name":"mediacodec",
-                    "value":"1"
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
                 },
                 {
-                    "category":4,
-                    "name":"mediacodec-auto-rotate",
-                    "value":"1"
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
                 },
                 {
-                    "category":4,
-                    "name":"mediacodec-handle-resolution-change",
-                    "value":"1"
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
                 },
                 {
-                    "category":4,
-                    "name":"mediacodec-hevc",
-                    "value":"1"
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
                 }
             ]
         },
         {
-            "group":"软解码",
-            "options":[
+            "group": "软解码",
+            "options": [
                 {
-                    "category":4,
-                    "name":"opensles",
-                    "value":"0"
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
                 },
                 {
-                    "category":4,
-                    "name":"overlay-format",
-                    "value":"842225234"
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
                 },
                 {
-                    "category":4,
-                    "name":"framedrop",
-                    "value":"1"
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
                 },
                 {
-                    "category":4,
-                    "name":"soundtouch",
-                    "value":"1"
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
                 },
                 {
-                    "category":4,
-                    "name":"start-on-prepared",
-                    "value":"1"
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
                 },
                 {
-                    "category":1,
-                    "name":"http-detect-range-support",
-                    "value":"0"
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
                 },
                 {
-                    "category":1,
-                    "name":"fflags",
-                    "value":"fastseek"
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
                 },
                 {
-                    "category":2,
-                    "name":"skip_loop_filter",
-                    "value":"48"
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
                 },
                 {
-                    "category":4,
-                    "name":"reconnect",
-                    "value":"1"
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
                 },
                 {
-                    "category":4,
-                    "name":"max-buffer-size",
-                    "value":"5242880"
+                    "category": 4,
+                    "name": "max-buffer-size",
+                    "value": "5242880"
                 },
                 {
-                    "category":4,
-                    "name":"enable-accurate-seek",
-                    "value":"0"
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
                 },
                 {
-                    "category":4,
-                    "name":"mediacodec",
-                    "value":"0"
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
                 },
                 {
-                    "category":4,
-                    "name":"mediacodec-auto-rotate",
-                    "value":"0"
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
                 },
                 {
-                    "category":4,
-                    "name":"mediacodec-handle-resolution-change",
-                    "value":"0"
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
                 },
                 {
-                    "category":4,
-                    "name":"mediacodec-hevc",
-                    "value":"0"
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
                 }
             ]
         }
     ],
-    "ads":[
+    "ads": [
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",
         "www.google-analytics.com",
