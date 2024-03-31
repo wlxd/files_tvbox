@@ -2,7 +2,7 @@
 
 <https://github.com/o0HalfLife0o/TVBoxOSC/releases>
 
-## TVBox [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
+## 影视TV [GitHub仓库](https://github.com/FongMi/Release) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
 
 配置地址选一个输入
 
@@ -18,7 +18,7 @@
 
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
-## 影视TV [GitHub仓库](https://github.com/FongMi/Release) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
+## TVBox [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
 
 ## PlutoPlayer [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
@@ -37,6 +37,8 @@
 <https://raw.gitmirror.com/cyao2q/files/master/n.json>
 
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
+
+<https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 <https://mirror.ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
