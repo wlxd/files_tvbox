@@ -12,11 +12,15 @@
 
 <https://cyao.eu.org/files/n.json>
 
-<https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt>
+<http://itvbox.cc/tvbox/云星日记/1.m3u8>
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
 
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+
+<https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
+
+<https://mirror.ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 ## TVBox [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
 
