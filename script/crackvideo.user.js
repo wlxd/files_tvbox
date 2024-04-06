@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name           破解VIP会员视频-优化整理版
 // @namespace      https://github.com/cyao2q/files
-// @version        1.1.8
+// @version        1.1.9
 // @description    一键破解[优酷|腾讯|乐视|爱奇艺]等会员视频
 // @author         漠星曜
 // @license        MIT
-// @downloadURL    https://cyao.eu.org/files/script/crackvideo.user.js
+// @downloadURL    https://cyao2q.github.io/files/script/crackvideo.user.js
 // @require        https://code.jquery.com/jquery-latest.js
 // @noframes
 // @match          *://*.iqiyi.com/*

@@ -10,7 +10,7 @@
 
 <http://饭太硬.top/tv>
 
-<https://cyao.eu.org/files/n.json>
+<https://cyao2q.github.io/files/n.json>
 
 <http://itvbox.cc/tvbox/云星日记/1.m3u8>
 
@@ -48,11 +48,11 @@
 
 ## 油猴脚本
 
-[破解VIP会员视频](https://cyao.eu.org/files/script/crackvideo.user.js)
+[破解VIP会员视频](https://cyao2q.github.io/files/script/crackvideo.user.js)
 
 ## 阅读APP自用书源
 
-<https://cyao.eu.org/yuedu/>
+<https://cyao2q.github.io/yuedu/>
 
 ## 广告过滤规则
 
