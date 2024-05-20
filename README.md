@@ -14,8 +14,6 @@
 
 <http://itvbox.cc/tvbox/云星日记/1.m3u8>
 
-<https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>
-
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
