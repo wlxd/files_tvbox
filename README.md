@@ -10,7 +10,7 @@
 
 <http://肥猫.live>
 
-<http://饭太硬.top/tv>
+<http://www.饭太硬.com/tv>
 
 <https://cyao2q.github.io/files/n.json>
 

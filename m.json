@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;E85E180EC8CAAE0D38C78A021A2494E0",
+    "spider": "./jar/Butterfly.jar;md5;6ADEB73ADD2066FE62257D2337084DA2",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -131,7 +131,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/biliych.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
         },
         {
             "key": "哔哩哔哩",
@@ -142,7 +142,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
         },
         {
             "key": "MTV合集",
@@ -253,7 +253,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
         },
         {
             "key": "酷奇音乐",
