@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;6ADEB73ADD2066FE62257D2337084DA2",
+    "spider": "./jar/Butterfly.jar;md5;5EE96D541532306C3ACC8C0FC229ACBF",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -66,6 +66,16 @@
             "ext": "https://www.zxzjhd.com/"
         },
         {
+            "key": "酷看秒播",
+            "name": "酷看秒播",
+            "type": 3,
+            "api": "csp_Kkys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "原创影视",
             "name": "原创影视",
             "type": 3,
@@ -74,16 +84,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "毛驴影视",
-            "name": "毛驴影视",
-            "type": 3,
-            "api": "csp_MLYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "快看资源",
@@ -246,16 +246,6 @@
             "filterable": 1
         },
         {
-            "key": "农民影视",
-            "name": "农民影视",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
-        },
-        {
             "key": "酷奇音乐",
             "name": "酷奇音乐",
             "type": 3,
@@ -273,15 +263,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "樱花动漫",
-            "name": "樱花动漫",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "异界动漫",
