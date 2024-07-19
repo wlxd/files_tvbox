@@ -14,11 +14,11 @@
 
 <https://cyao2q.github.io/files/n.json>
 
-<http://itvbox.cc/tvbox/云星日记/1.m3u8>
+<https://raw.gitmirror.com/cyao2q/files/master/n.json>
 
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
-<https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
+<https://mirror.ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 ## TVBox [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
 
@@ -33,16 +33,6 @@
 [儿歌多多](https://www.fenxm.com/613.html) [秒看电视](https://www.fenxm.com/862.html) [神鸟电视](https://www.fenxm.com/908.html)
 
 [当贝桌面](https://www.fenxm.com/626.html) [蛮荒桌面](https://www.fenxm.com/877.html)
-
-# Github加速服务
-
-<https://raw.gitmirror.com/cyao2q/files/master/n.json>
-
-<https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
-
-<https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
-
-<https://mirror.ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 ## 油猴脚本
 
