@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;5EE96D541532306C3ACC8C0FC229ACBF",
+    "spider": "./jar/Butterfly.jar;md5;329E914A90B0BB5C7CB69B0EAEC19700",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -198,26 +198,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "视觉影视",
-            "name": "视觉影视",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.80yy3.com/"
-        },
-        {
-            "key": "比特影视",
-            "name": "比特影视",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "酷奇音乐",
