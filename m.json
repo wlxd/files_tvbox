@@ -44,17 +44,6 @@
             "changeable": 1
         },
         {
-            "key": "利奥影视",
-            "name": "利奥影视",
-            "type": 3,
-            "api": "csp_Libvio",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.vip/"
-        },
-        {
             "key": "在线之家",
             "name": "在线之家",
             "type": 3,
@@ -66,6 +55,16 @@
             "ext": "https://www.zxzjhd.com/"
         },
         {
+            "key": "文采秒播",
+            "name": "文采秒播",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "酷看秒播",
             "name": "酷看秒播",
             "type": 3,
@@ -74,6 +73,35 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "热播多线",
+            "name": "热播多线",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+        },
+        {
+            "key": "追剧多线",
+            "name": "追剧多线",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+        },
+        {
+            "key": "萌米多线",
+            "name": "萌米多线",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
             "key": "原创影视",
