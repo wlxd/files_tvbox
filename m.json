@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;329E914A90B0BB5C7CB69B0EAEC19700",
+    "spider": "./jar/Butterfly.jar;md5;7CF2880549B9E4236A8DC0D6DEB8BB90",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -23,6 +23,26 @@
             "ext": "https://czzy.top/"
         },
         {
+            "key": "利奥影视",
+            "name": "利奥影视",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "在线之家",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzjhd.com/"
+        },
+        {
             "key": "低端影视",
             "name": "低端影视",
             "type": 3,
@@ -42,17 +62,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "在线之家",
-            "name": "在线之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzjhd.com/"
         },
         {
             "key": "文采秒播",
