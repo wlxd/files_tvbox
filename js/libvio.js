@@ -5,8 +5,8 @@ muban.首图2.二级.content = '.detail-content&&Text'
 var rule = {
 	title:'LIBVIO',
 	模板:'首图2',
-	host:'https://iioo.me',
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a:eq(1)&&href");print(src);HOST=src',
+	host:'https://iioo.me/',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a:eq(2)&&href");print(src);HOST=src',
 	url:'/show/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}--{{fl.lang}}----fypage---{{fl.year}}',
