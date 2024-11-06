@@ -20,7 +20,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://czzy.top/"
+            "ext": "https://www.czzyvideo.com/"
         },
         {
             "key": "利奥影视",
@@ -57,7 +57,7 @@
             "key": "南瓜",
             "name": "南瓜影视",
             "type": 3,
-            "api": "http://js.xn--z7x900a.com/js/ng_open.js",
+            "api": "csp_NanGua",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -199,6 +199,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/ddys.js"
+        },
+        {
+            "key": "南瓜影视JS",
+            "name": "南瓜影视JS",
+            "type": 3,
+            "api": "http://js.xn--z7x900a.com/js/ng_open.js",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "荐片影视JS",
@@ -386,11 +396,6 @@
             "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name": "player",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
             "name": "yemu",
             "type": 0,
             "url": "https://www.yemu.xyz/?url="
@@ -398,12 +403,22 @@
         {
             "name": "jiexi",
             "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
+            "url": "https://jiexi.site/?url="
         },
         {
-            "name": "m3u8",
+            "name": "yparse",
             "type": 0,
-            "url": "https://jx.m3u8.pw/?url="
+            "url": "https://jx.yparse.com/index.php?url="
+        },
+        {
+            "name": "8090g",
+            "type": 0,
+            "url": "https://www.8090g.cn/?url="
+        },
+        {
+            "name": "playm3u8",
+            "type": 0,
+            "url": "https://www.playm3u8.cn/jiexi.php?url="
         }
     ],
     "recommend": [
