@@ -16,9 +16,9 @@
 
 <https://raw.gitmirror.com/cyao2q/files/master/n.json>
 
-<https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
+<https://ghp.ci/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
-<https://mirror.ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
+<https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 ## TVBox [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
 
@@ -44,9 +44,9 @@
 
 ## 广告过滤规则
 
-<https://fastly.jsdelivr.net/gh/cyao2q/files/filters/EasyList.txt>
+<https://cyao2q.github.io/files/ext/EasyList.txt>
 
-<https://fastly.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt>
+<https://cyao2q.github.io/files/ext/uBlock.txt>
 
 ## A free CDN for Open Source
 

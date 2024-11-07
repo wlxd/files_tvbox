@@ -143,7 +143,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "json": "https://notabug.org/fantaiying/ext/raw/main/biliych.json"
+                "json": "./ext/biliych.json"
             }
         },
         {
@@ -156,7 +156,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "json": "https://notabug.org/fantaiying/ext/raw/main/bilibili.json"
+                "json": "./ext/bilibili.json"
             }
         },
         {
