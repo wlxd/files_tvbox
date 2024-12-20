@@ -8,13 +8,11 @@
 
 <http://肥猫.com>
 
-<http://www.饭太硬.com/tv>
+<http://www.饭太硬.com/tv/>
 
 <https://cyao2q.github.io/files/n.json>
 
 <https://raw.gitmirror.com/cyao2q/files/master/n.json>
-
-<https://ghp.ci/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
